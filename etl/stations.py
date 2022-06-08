@@ -13,7 +13,7 @@ def main():
     STATIONS_FOUT_NAME = "stations.txt"
     PROFILERS_FOUT_NAME = "profilers.txt"
     YACLOUD_PROXY_PREFIX = "https://functions.yandexcloud.net/d4egksn4533obhbontvp"
-    DATA_DIR = "../data"
+    DATA_DIR = "data"
     stations = []
 
     for station_list_url in STATIONS_LIST_URLS:
