@@ -4,7 +4,8 @@ from bs4 import BeautifulSoup
 
 
 def main():
-    STATIONS_LIST_URLS = ["https://ru.wikipedia.org"
+    STATIONS_LIST_URLS = ["https://ru.wikipedia.org",
+                          "https://mosecom.mos.ru/specialnye-stancii/"
                         ]
     BASE_URL = "https://mosecom.mos.ru/"
     STATIONS_FOUT_NAME = "stations.txt"
