@@ -1,3 +1,5 @@
+from os import mkdir
+from os.path import isdir, join
 from urllib.request import urlopen
 
 from bs4 import BeautifulSoup
@@ -11,6 +13,7 @@ def main():
     STATIONS_FOUT_NAME = "stations.txt"
     PROFILERS_FOUT_NAME = "profilers.txt"
     YACLOUD_PROXY_PREFIX = "https://functions.yandexcloud.net/d4egksn4533obhbontvp"
+    DATA_DIR = "../data"
     stations = []
 
     for station_list_url in STATIONS_LIST_URLS:
@@ -39,10 +42,13 @@ def main():
         "ostankino"
         ]
 
-    with open(STATIONS_FOUT_NAME, "w") as f:
+    if not isdir(DATA_DIR):
+        mkdir(DATA_DIR)
+
+    with open(join(DATA_DIR, STATIONS_FOUT_NAME), "w") as f:
         f.write("\n".join(stations))
 
-    with open(PROFILERS_FOUT_NAME, "w") as f:
+    with open(join(DATA_DIR, PROFILERS_FOUT_NAME), "w") as f:
         f.write("\n".join(profilers))
 
 
