@@ -4,8 +4,7 @@ from bs4 import BeautifulSoup
 
 
 def main():
-    STATIONS_LIST_URLS = ["https://mosecom.mos.ru/stations/",
-                          "https://mosecom.mos.ru/specialnye-stancii/"
+    STATIONS_LIST_URLS = ["https://ru.wikipedia.org"
                         ]
     BASE_URL = "https://mosecom.mos.ru/"
     STATIONS_FOUT_NAME = "stations.txt"
@@ -19,6 +18,8 @@ def main():
         if data:
             soup = BeautifulSoup(data, "html.parser")
             stations_list = soup.find("div", id="searching-data")
+            if not stations_list:
+                continue
             for station_div in stations_list.find_all("div", recursive=False):
                 link = station_div.find("a")
                 if link:
