@@ -1,0 +1,118 @@
+[2022-06-11 23:14:49,181] INFO: Points extracted: {'stations': 53, 'special_stations': 4, 'profilers': 2}
+[2022-06-11 23:14:49,181] INFO: Points saved to data/raw/points.json
+[2022-06-11 23:14:51,374] INFO: Extracted data for akademika-anoxina stations
+[2022-06-11 23:14:51,376] INFO: Data for akademika-anoxina stations saved to data/raw/stations/akademika-anoxina/akademika-anoxina_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:14:53,335] INFO: Extracted data for bazovskaya stations
+[2022-06-11 23:14:53,337] INFO: Data for bazovskaya stations saved to data/raw/stations/bazovskaya/bazovskaya_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:14:55,742] INFO: Extracted data for birulevo stations
+[2022-06-11 23:14:55,743] INFO: Data for birulevo stations saved to data/raw/stations/birulevo/birulevo_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:14:57,563] INFO: Extracted data for brateevo stations
+[2022-06-11 23:14:57,565] INFO: Data for brateevo stations saved to data/raw/stations/brateevo/brateevo_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:14:59,183] INFO: Extracted data for butlerova stations
+[2022-06-11 23:14:59,185] INFO: Data for butlerova stations saved to data/raw/stations/butlerova/butlerova_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:03,329] INFO: Extracted data for veshnyaki stations
+[2022-06-11 23:15:03,332] INFO: Data for veshnyaki stations saved to data/raw/stations/veshnyaki/veshnyaki_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:05,133] INFO: Extracted data for glebovskaya stations
+[2022-06-11 23:15:05,135] INFO: Data for glebovskaya stations saved to data/raw/stations/glebovskaya/glebovskaya_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:07,078] INFO: Extracted data for golovacheva stations
+[2022-06-11 23:15:07,082] INFO: Data for golovacheva stations saved to data/raw/stations/golovacheva/golovacheva_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:08,674] INFO: Extracted data for gurevskij-proezd stations
+[2022-06-11 23:15:08,676] INFO: Data for gurevskij-proezd stations saved to data/raw/stations/gurevskij-proezd/gurevskij-proezd_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:10,690] INFO: Extracted data for guryanova stations
+[2022-06-11 23:15:10,693] INFO: Data for guryanova stations saved to data/raw/stations/guryanova/guryanova_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:12,670] INFO: Extracted data for dolgoprudnaya stations
+[2022-06-11 23:15:12,671] INFO: Data for dolgoprudnaya stations saved to data/raw/stations/dolgoprudnaya/dolgoprudnaya_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:14,404] INFO: Extracted data for zelenograd-11 stations
+[2022-06-11 23:15:14,405] INFO: Data for zelenograd-11 stations saved to data/raw/stations/zelenograd-11/zelenograd-11_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:16,361] INFO: Extracted data for zelenograd-16 stations
+[2022-06-11 23:15:16,363] INFO: Data for zelenograd-16 stations saved to data/raw/stations/zelenograd-16/zelenograd-16_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:17,915] INFO: Extracted data for zelenograd-6 stations
+[2022-06-11 23:15:17,916] INFO: Data for zelenograd-6 stations saved to data/raw/stations/zelenograd-6/zelenograd-6_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:19,710] INFO: Extracted data for kazakova stations
+[2022-06-11 23:15:19,711] INFO: Data for kazakova stations saved to data/raw/stations/kazakova/kazakova_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:21,678] INFO: Extracted data for kapotnya stations
+[2022-06-11 23:15:21,679] INFO: Data for kapotnya stations saved to data/raw/stations/kapotnya/kapotnya_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:23,482] INFO: Extracted data for kozhuxovo stations
+[2022-06-11 23:15:23,484] INFO: Data for kozhuxovo stations saved to data/raw/stations/kozhuxovo/kozhuxovo_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:25,394] INFO: Extracted data for kozhuxovskij-proezd stations
+[2022-06-11 23:15:25,397] INFO: Data for kozhuxovskij-proezd stations saved to data/raw/stations/kozhuxovskij-proezd/kozhuxovskij-proezd_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:27,351] INFO: Extracted data for koptevskij stations
+[2022-06-11 23:15:27,352] INFO: Data for koptevskij stations saved to data/raw/stations/koptevskij/koptevskij_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:28,847] INFO: Extracted data for kuznecovo stations
+[2022-06-11 23:15:28,848] INFO: Data for kuznecovo stations saved to data/raw/stations/kuznecovo/kuznecovo_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:30,592] INFO: Extracted data for losinyj-ostrov stations
+[2022-06-11 23:15:30,593] INFO: Data for losinyj-ostrov stations saved to data/raw/stations/losinyj-ostrov/losinyj-ostrov_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:32,768] INFO: Extracted data for lyublino stations
+[2022-06-11 23:15:32,770] INFO: Data for lyublino stations saved to data/raw/stations/lyublino/lyublino_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:35,109] INFO: Extracted data for ochakovskaya stations
+[2022-06-11 23:15:35,112] INFO: Data for ochakovskaya stations saved to data/raw/stations/ochakovskaya/ochakovskaya_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:38,997] INFO: Extracted data for m2-zhulebino stations
+[2022-06-11 23:15:38,999] INFO: Data for m2-zhulebino stations saved to data/raw/stations/m2-zhulebino/m2-zhulebino_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:40,918] INFO: Extracted data for madi stations
+[2022-06-11 23:15:40,919] INFO: Data for madi stations saved to data/raw/stations/madi/madi_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:42,798] INFO: Extracted data for marino stations
+[2022-06-11 23:15:42,801] INFO: Data for marino stations saved to data/raw/stations/marino/marino_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:44,596] INFO: Extracted data for mgu stations
+[2022-06-11 23:15:44,599] INFO: Data for mgu stations saved to data/raw/stations/mgu/mgu_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:46,370] INFO: Extracted data for melitopolskaya stations
+[2022-06-11 23:15:46,372] INFO: Data for melitopolskaya stations saved to data/raw/stations/melitopolskaya/melitopolskaya_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:48,132] INFO: Extracted data for narodnogo-opolcheniya stations
+[2022-06-11 23:15:48,135] INFO: Data for narodnogo-opolcheniya stations saved to data/raw/stations/narodnogo-opolcheniya/narodnogo-opolcheniya_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:50,268] INFO: Extracted data for nizhnyaya-maslovka stations
+[2022-06-11 23:15:50,269] INFO: Data for nizhnyaya-maslovka stations saved to data/raw/stations/nizhnyaya-maslovka/nizhnyaya-maslovka_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:51,981] INFO: Extracted data for novokosino stations
+[2022-06-11 23:15:51,982] INFO: Data for novokosino stations saved to data/raw/stations/novokosino/novokosino_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:53,814] INFO: Extracted data for ostankino-0 stations
+[2022-06-11 23:15:53,816] INFO: Data for ostankino-0 stations saved to data/raw/stations/ostankino-0/ostankino-0_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:55,408] INFO: Extracted data for ochakovskoe-2 stations
+[2022-06-11 23:15:55,410] INFO: Data for ochakovskoe-2 stations saved to data/raw/stations/ochakovskoe-2/ochakovskoe-2_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:57,292] INFO: Extracted data for ploshhad-gagarina stations
+[2022-06-11 23:15:57,295] INFO: Data for ploshhad-gagarina stations saved to data/raw/stations/ploshhad-gagarina/ploshhad-gagarina_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:15:59,004] INFO: Extracted data for polyarnaya stations
+[2022-06-11 23:15:59,005] INFO: Data for polyarnaya stations saved to data/raw/stations/polyarnaya/polyarnaya_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:00,812] INFO: Extracted data for proletarskij-prospekt stations
+[2022-06-11 23:16:00,814] INFO: Data for proletarskij-prospekt stations saved to data/raw/stations/proletarskij-prospekt/proletarskij-prospekt_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:02,599] INFO: Extracted data for rogovo stations
+[2022-06-11 23:16:02,601] INFO: Data for rogovo stations saved to data/raw/stations/rogovo/rogovo_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:04,629] INFO: Extracted data for salarevo stations
+[2022-06-11 23:16:04,631] INFO: Data for salarevo stations saved to data/raw/stations/salarevo/salarevo_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:06,243] INFO: Extracted data for svetlyj-proezd stations
+[2022-06-11 23:16:06,244] INFO: Data for svetlyj-proezd stations saved to data/raw/stations/svetlyj-proezd/svetlyj-proezd_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:07,719] INFO: Extracted data for semenkovo stations
+[2022-06-11 23:16:07,720] INFO: Data for semenkovo stations saved to data/raw/stations/semenkovo/semenkovo_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:09,563] INFO: Extracted data for spiridonovka stations
+[2022-06-11 23:16:09,566] INFO: Data for spiridonovka stations saved to data/raw/stations/spiridonovka/spiridonovka_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:11,283] INFO: Extracted data for suxarevskaya-ploshhad stations
+[2022-06-11 23:16:11,285] INFO: Data for suxarevskaya-ploshhad stations saved to data/raw/stations/suxarevskaya-ploshhad/suxarevskaya-ploshhad_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:13,105] INFO: Extracted data for texnopolis stations
+[2022-06-11 23:16:13,107] INFO: Data for texnopolis stations saved to data/raw/stations/texnopolis/texnopolis_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:14,538] INFO: Extracted data for tolbuxina stations
+[2022-06-11 23:16:14,539] INFO: Data for tolbuxina stations saved to data/raw/stations/tolbuxina/tolbuxina_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:16,065] INFO: Extracted data for troick stations
+[2022-06-11 23:16:16,067] INFO: Data for troick stations saved to data/raw/stations/troick/troick_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:17,858] INFO: Extracted data for turistskaya stations
+[2022-06-11 23:16:17,860] INFO: Data for turistskaya stations saved to data/raw/stations/turistskaya/turistskaya_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:19,860] INFO: Extracted data for xamovniki stations
+[2022-06-11 23:16:19,864] INFO: Data for xamovniki stations saved to data/raw/stations/xamovniki/xamovniki_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:21,365] INFO: Extracted data for chayanova stations
+[2022-06-11 23:16:21,366] INFO: Data for chayanova stations saved to data/raw/stations/chayanova/chayanova_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:23,097] INFO: Extracted data for cheremushki stations
+[2022-06-11 23:16:23,099] INFO: Data for cheremushki stations saved to data/raw/stations/cheremushki/cheremushki_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:24,602] ERROR: Cannot extract data for chura stations
+[2022-06-11 23:16:26,592] INFO: Extracted data for shabolovka stations
+[2022-06-11 23:16:26,594] INFO: Data for shabolovka stations saved to data/raw/stations/shabolovka/shabolovka_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:28,307] INFO: Extracted data for shherbinka stations
+[2022-06-11 23:16:28,309] INFO: Data for shherbinka stations saved to data/raw/stations/shherbinka/shherbinka_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:29,759] ERROR: Cannot extract data for yuzhnoe-chertanovo stations
+[2022-06-11 23:16:31,392] INFO: Extracted data for mkad105 special stations
+[2022-06-11 23:16:31,394] INFO: Data for mkad105 special stations saved to data/raw/special_stations/mkad105/mkad105_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:32,881] INFO: Extracted data for mkad-52-km-zapad special stations
+[2022-06-11 23:16:32,882] INFO: Data for mkad-52-km-zapad special stations saved to data/raw/special_stations/mkad-52-km-zapad/mkad-52-km-zapad_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:34,397] INFO: Extracted data for spartakovskaya-ploshhad special stations
+[2022-06-11 23:16:34,398] INFO: Data for spartakovskaya-ploshhad special stations saved to data/raw/special_stations/spartakovskaya-ploshhad/spartakovskaya-ploshhad_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:36,228] INFO: Extracted data for troitsk-2 special stations
+[2022-06-11 23:16:36,230] INFO: Data for troitsk-2 special stations saved to data/raw/special_stations/troitsk-2/troitsk-2_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:16:40,562] INFO: Extracted data for vostok profilers
+[2022-06-11 23:16:40,607] INFO: Data for vostok profilers saved to data/raw/profilers/vostok/vostok_2022-06-12T02:00:00++0300.json
+[2022-06-11 23:17:42,077] ERROR: Cannot extract data for ostankino profilers
+[2022-06-11 23:17:42,077] INFO: Extracted data: {'stations': 51, 'special_stations': 4, 'profilers': 1}
