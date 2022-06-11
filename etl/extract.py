@@ -123,9 +123,9 @@ def load_previous_points() -> dict:
 
 
 def extract_data(ptype: str, pname: str) -> int:
-    ptype = ptype.rstrip("s")
-    url = params.scrape_url + f"?point={pname}&type={ptype}"
-    ptype = ptype.replace("_", " ")
+    ptype_url_arg = ptype.rstrip("s")
+    ptype_print = ptype.replace("_", " ")
+    url = params.scrape_url + f"?point={pname}&type={ptype_url_arg}"
     req = Request(
         url=url,
         headers={
@@ -137,9 +137,9 @@ def extract_data(ptype: str, pname: str) -> int:
         with urlopen(req) as con:
             response = con.read().decode()
             data = loads(response)
-            logging.info(f"Extracted data for {pname} {ptype}")
+            logging.info(f"Extracted data for {pname} {ptype_print}")
     except:
-        logging.error(f"Cannot extract data for {pname} {ptype}")
+        logging.error(f"Cannot extract data for {pname} {ptype_print}")
         return 1
 
     if data["status"] == "OK":
@@ -152,13 +152,13 @@ def extract_data(ptype: str, pname: str) -> int:
         try:
             with open(filename, "w") as f:
                 dump(data, f)
-                logging.info(f"Data for {pname} {ptype} saved to {filename}")
+                logging.info(f"Data for {pname} {ptype_print} saved to {filename}")
         except:
-            logging.error(f"Cannot save data for {pname} {ptype} saved to "
+            logging.error(f"Cannot save data for {pname} {ptype_print} saved to "
                 + f"{filename}")
             return 1
     else:
-        logging.error(f"Incorrect data for {pname} {ptype}"
+        logging.error(f"Incorrect data for {pname} {ptype_print}"
             + f"data['message']")
 
     return 0
