@@ -22,13 +22,9 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-      # Install dependencies
-      - name: Install BeautifulSoup
-        run: pip install beautifulsoup4
-
       # Runs a single command using the runners shell
       - name: Update stations list
-        run: python etl/stations.py
+        run: python etl/extract.py --apikey ${{ secrets.YCLOUD_API_KEY }}
 
       # Update repo
       - name: Commit and push if changed
@@ -36,7 +32,7 @@ jobs:
           git config user.name "Bot"
           git config user.email "actions@users.noreply.github.com"
           git add -A
-          timestamp=$(date --rfc-3339=seconds --utc)
+          timestamp=$(TZ='Europe/Moscow' date --rfc-3339=seconds)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
 
