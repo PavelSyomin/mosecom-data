@@ -24,7 +24,7 @@ params = Params(
     logs_dir=join("logs", "extract"),
     points_filename="points.json",
     current_dt=datetime.now(tz=timezone(timedelta(hours=3)))\
-            .isoformat(),
+            .isoformat(timespec="seconds"),
     )
 
 if not isdir(params.logs_dir):
