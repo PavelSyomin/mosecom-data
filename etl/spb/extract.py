@@ -36,7 +36,7 @@ def main():
                 stats["error"] += 1
 
     logging.info(f"Extracted data for {timestamp}")
-    logging.info(f"{stats['ok']} stations were processed successfuly"
+    logging.info(f"{stats['ok']} stations were processed successfuly "
         + f"{stats['error']} with errors")
 
 
