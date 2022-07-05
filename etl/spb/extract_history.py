@@ -7,7 +7,7 @@ from urllib.parse import urlencode
 from bs4 import BeautifulSoup
 
 
-out_dir = os.path.join("data", "spb", "raw", "history_before_2022-07-04")
+out_dir = os.path.join("data", "spb", "raw", "asmav", "history_before_2022-07-04")
 base_url = "http://www.infoeco.ru"
 year_ids = {
     2017: 3122,
