@@ -1,0 +1,32 @@
+# This is a workflow to extract data on air pollution in Saint Petersburg
+
+name: Extract for Saint-Petersburg
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+  # Run twice in a month
+  schedule:
+    - cron: "30 23 5,20 * *"
+
+jobs:
+  # Get raw data from http://infoeco.ru
+  extract:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so the job can access it
+      - uses: actions/checkout@v3
+
+      - name: Get data
+        run: python etl/spb/extract.py
+
+      # Update repository
+      - name: Commit and push if changed
+        run: |-
+          git config user.name "Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(TZ='Europe/Moscow' date --rfc-3339=seconds)
+          git commit -m "Latest data (SPb): ${timestamp}" || exit 0
+          git push
