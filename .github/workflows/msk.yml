@@ -1,0 +1,59 @@
+# This is a workflow to extract and transform data on air pollution in Moscow
+
+name: Extract and transform
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+  # Run every day
+  schedule:
+    - cron: "00 23 * * *"
+
+jobs:
+  # (1) Get data from http://mosecom.mos.ru
+  extract:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out repository, so the job can access it
+      - uses: actions/checkout@v3
+
+      # Get stations and data
+      - name: Update stations list
+        run: python etl/extract.py --apikey ${{ secrets.YCLOUD_API_KEY }}
+
+      # Update repository
+      - name: Commit and push if changed
+        run: |-
+          git config user.name "Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(TZ='Europe/Moscow' date --rfc-3339=seconds)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
+
+  # (2) Convert lo CSV
+  transform:
+    # Run after extraction
+    needs: extract
+    runs-on: ubuntu-latest
+    steps:
+        # Checkout again, fetching the newest changes made by extract job
+      - uses: actions/checkout@v3
+        with:
+          ref: "main"
+
+        # Transform raw data to csv
+      - name: Make or update rolling tables
+        run: python etl/transform.py
+
+        # Save result in the repository
+      - name: Commit and push if changed
+        run: |-
+          git config user.name "Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(TZ='Europe/Moscow' date --rfc-3339=seconds)
+          git commit -m "Make rolling tables: ${timestamp}" || exit 0
+          git push
+
