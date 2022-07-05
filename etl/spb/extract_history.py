@@ -58,7 +58,7 @@ def main():
 
     print("All years processed with the following results:")
     for year, results in stats.items():
-        print(f"{year}: {results['success']} OK, {results['failure']} errors")
+        print(f"{year}: {results['ok']} OK, {results['error']} errors")
     print("Data files saved to {out_dir}")
 
 
