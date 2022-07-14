@@ -1,0 +1,34 @@
+# This is a workflow to extract data on air pollution in Volga region
+# Volga region includes Samara, Saratov, Ylianovsk, Penza and Orenburg regions (oblasti)
+
+name: Extract for Volga region
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+  # Run every day
+  schedule:
+    - cron: "45 22 * * *"
+
+jobs:
+  # Get raw data from http://www.pogoda-sv.ru/?mode=airdata
+  extract:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so the job can access it
+      - uses: actions/checkout@v3
+
+      # Extract data from the page
+      - name: Get data
+        run: python etl/volga/extract.py
+
+      # Update repository
+      - name: Commit and push if changed
+        run: |-
+          git config user.name "Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(TZ='Europe/Moscow' date --rfc-3339=seconds)
+          git commit -m "Latest data (Volga region): ${timestamp}" || exit 0
+          git push
