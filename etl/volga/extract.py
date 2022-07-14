@@ -56,7 +56,7 @@ def save_raw_data(data):
         os.makedirs(out_dir)
 
     filename = os.path.join(out_dir, f"{timestamp}.json")
-    with open(filename, "r") as f:
+    with open(filename, "w") as f:
         json.dump(data, f, ensure_ascii=False)
 
 if __name__ == "__main__":
