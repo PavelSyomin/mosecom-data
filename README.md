@@ -67,6 +67,9 @@ The general workflow is as follows.
 5. The data is presented as GIF plots ¯\_(ツ)_/¯ So now is's just stored as pictures, but I hope one day it will be digitized.
 6. Data transformation — TBD.
 
+### Tatarstan
 
-
+1. Website is http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/
+2. There is a map with monitoring stations in 4 cities: Kazan (10 stations), Naberezhniye Chelny (5 stations), Almetievsk (3 stations), Nizhnekamsk (3 stations). For each city, there is a separate page on the site, but the map is common, so the data is extracted only once from the map on kazan page.
+3. Raw data is stored in `data/tat/raw` as JSON with coordinates and daily averages table for each monitoring station. The city name is not detected, but can be found out later by coordinates.
 
