@@ -20,7 +20,7 @@ jobs:
 
       # Get stations and data
       - name: Update stations list
-        run: python etl/extract.py --apikey ${{ secrets.YCLOUD_API_KEY }}
+        run: python etl/msk/extract.py --apikey ${{ secrets.YCLOUD_API_KEY }}
 
       # Update repository
       - name: Commit and push if changed
@@ -45,7 +45,7 @@ jobs:
 
         # Transform raw data to csv
       - name: Make or update rolling tables
-        run: python etl/transform.py
+        run: python etl/msk/transform.py
 
         # Save result in the repository
       - name: Commit and push if changed

@@ -14,9 +14,9 @@ Params = namedtuple("Params", [
 ])
 
 params = Params(
-    raw_data_dir="data/raw",
-    product_dir="data/product",
-    logs_dir=os.path.join("logs", "transform"),
+    raw_data_dir="data/msk/raw",
+    product_dir="data/msk/product",
+    logs_dir=os.path.join("logs", "msk", "transform"),
     current_dt=datetime.now(tz=timezone(timedelta(hours=3)))\
             .isoformat(timespec="seconds"),
 )

@@ -20,8 +20,8 @@ Params = namedtuple("Params", [
 params = Params(
     points_url="https://functions.yandexcloud.net/d4erfpvs3mpost7o71j6",
     scrape_url="https://functions.yandexcloud.net/d4eap6qup80439vvjltc",
-    base_dir=join("data", "raw"),
-    logs_dir=join("logs", "extract"),
+    base_dir=join("data", "msk", "raw"),
+    logs_dir=join("logs", "msk", "extract"),
     points_filename="points.json",
     current_dt=datetime.now(tz=timezone(timedelta(hours=3)))\
             .isoformat(timespec="seconds"),

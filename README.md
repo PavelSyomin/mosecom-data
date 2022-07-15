@@ -41,7 +41,7 @@ The general workflow is as follows.
 ### Moscow
 
 1. Data is gathered from http://mosecom.mos.ru
-2. The website blocks requests from GitHub IPs, probably because they are foreign, so to retrieve data, two helper Yandex Cloud functions are used as a gateway. The code of these functions is in `data/ycloud` folder.
+2. The website blocks requests from GitHub IPs, probably because they are foreign, so to retrieve data, two helper Yandex Cloud functions are used as a gateway. The code of these functions is in `etl/msk/ycloud` folder.
 3. There are three types of points:
     * stations,
     * special stations — something like ordinary stations, but located in heavy polluted places (at least as far as I understand),
