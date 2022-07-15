@@ -1,0 +1,33 @@
+# This is a workflow to extract data on air pollution of cities participating in “Clean Air” state program
+
+name: Extract for “Clean Air” cities
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+  # Run every day
+  schedule:
+    - cron: "45 23 * * *"
+
+jobs:
+  # Get raw data from http://www.feerc.ru/uisem/portal/ad/services/getData.php
+  extract:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so the job can access it
+      - uses: actions/checkout@v3
+
+      # Extract data from the page
+      - name: Get data
+        run: python etl/feerc/extract.py
+
+      # Update repository
+      - name: Commit and push if changed
+        run: |-
+          git config user.name "Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(TZ='Europe/Moscow' date --rfc-3339=seconds)
+          git commit -m "Latest data (FEERC / Clean Air): ${timestamp}" || exit 0
+          git push
