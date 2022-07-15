@@ -4,6 +4,7 @@ import os
 import re
 from datetime import datetime, timedelta, timezone
 from time import sleep
+from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin, parse_qs, urlencode, urlparse
 from urllib.request import urlopen, Request
 
