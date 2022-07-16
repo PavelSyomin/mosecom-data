@@ -37,8 +37,9 @@ logging.basicConfig(
 )
 
 for dirname, _, filenames in os.walk(params.raw_data_dir):
+    print(dirname)
     parts = dirname.split("/")
-    if len(parts) != 4:
+    if len(parts) != 5:
         continue
 
     ptype = parts[-2]
