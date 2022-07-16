@@ -74,3 +74,16 @@ The general workflow is as follows.
 3. Raw data is stored in `data/tat/raw` as JSON with coordinates and daily averages table for each monitoring station. The city name is not detected, but can be found out later by coordinates.
 4. Workflow to extract data is run every day at 22:30.
 
+### Volga region
+
+1. Website is http://www.pogoda-sv.ru/?mode=airdata
+2. Under the hood, this map uses an API, so scraper just calls it and stores the returned JSON in `data/volga/raw`.
+3. “Volga region” here is just the area of activity of Volga branch of Russian Hydrometeorological Service, so it includes 5 subjects of the federation: Penza, Samara, Saratov, Uliyanovsk and Orenburg (with some cities in the corresponding regions).
+4. Data is retrieved every day.
+
+### FEERC (Clean Air)
+
+1. “Clean Air” is a federal project for monitoring air pollution in most polluted cities of Russia.
+2. The website is www.feerc.ru/uisem/portal/ and for each city there is a map (e. g. http://www.feerc.ru/uisem/portal/ad/norilsk). For some cities the map does not work, but if fact the map is common for all the cities (decrease the scale to see). Also, it includes the data for some cities which are not the part of the project. Under the hood, this map uses an API, so, like for Volga region, the scraper just calls this API and stores returned JSON in `data/feerc/raw`.
+3. Data is retrieved evedy day.
+4. The most interesting part of the data is `primsSS` element of every station. It contains the history of daily averages for a station. The items are not named, but their order coincides with the order of pollutants in `si` element.
