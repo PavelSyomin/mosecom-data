@@ -1,0 +1,5 @@
+[2022-08-06 22:38:06,726] INFO: Trying to get data
+[2022-08-06 22:38:06,727] INFO: Trying to get http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2022-08-06 22:38:08,288] INFO: Data retrieved. Extracting placemarks
+[2022-08-06 22:38:08,288] INFO: Detected 21 placemarks
+[2022-08-06 22:38:08,289] INFO: Data saved to data/tat/raw/2022-08-07T01:38:06+03:00.json
