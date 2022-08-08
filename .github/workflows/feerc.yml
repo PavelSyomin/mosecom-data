@@ -5,9 +5,9 @@ name: Extract for “Clean Air” cities
 # Controls when the workflow will run
 on:
   workflow_dispatch:
-  # Run every day
+  # Run five times a month
   schedule:
-    - cron: "45 23 * * *"
+    - cron: "45 11 7,14,21,28,31 * *"
 
 jobs:
   # Get raw data from http://www.feerc.ru/uisem/portal/ad/services/getData.php
