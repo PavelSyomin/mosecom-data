@@ -1,0 +1,5 @@
+[2022-11-09 22:40:21,527] INFO: Trying to get data
+[2022-11-09 22:40:21,528] INFO: Trying to get http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2022-11-09 22:42:31,801] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2022-11-09 22:42:31,801] CRITICAL: [Errno 110] Connection timed out
+[2022-11-09 22:42:31,802] WARNING: No data
