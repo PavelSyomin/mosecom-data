@@ -1,0 +1,106 @@
+[2022-11-20 23:41:44,396] INFO: Getting station ids
+[2022-11-20 23:41:46,667] INFO: Obtained results: 25 asmav stations, 9 gmsav stations
+[2022-11-20 23:41:46,667] INFO: Processing asmav station with id 1
+[2022-11-20 23:43:56,784] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=1
+[2022-11-20 23:43:56,785] CRITICAL: [Errno 110] Connection timed out
+[2022-11-20 23:43:56,785] INFO: Processing asmav station with id 2
+[2022-11-20 23:46:07,857] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=2
+[2022-11-20 23:46:07,857] CRITICAL: [Errno 110] Connection timed out
+[2022-11-20 23:46:07,857] INFO: Processing asmav station with id 3
+[2022-11-20 23:48:18,928] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=3
+[2022-11-20 23:48:18,929] CRITICAL: [Errno 110] Connection timed out
+[2022-11-20 23:48:18,929] INFO: Processing asmav station with id 4
+[2022-11-20 23:50:30,000] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=4
+[2022-11-20 23:50:30,001] CRITICAL: [Errno 110] Connection timed out
+[2022-11-20 23:50:30,001] INFO: Processing asmav station with id 5
+[2022-11-20 23:52:41,072] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=5
+[2022-11-20 23:52:41,073] CRITICAL: [Errno 110] Connection timed out
+[2022-11-20 23:52:41,073] INFO: Processing asmav station with id 6
+[2022-11-20 23:54:52,144] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=6
+[2022-11-20 23:54:52,145] CRITICAL: [Errno 110] Connection timed out
+[2022-11-20 23:54:52,145] INFO: Processing asmav station with id 7
+[2022-11-20 23:57:03,217] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=7
+[2022-11-20 23:57:03,217] CRITICAL: [Errno 110] Connection timed out
+[2022-11-20 23:57:03,217] INFO: Processing asmav station with id 8
+[2022-11-20 23:59:14,288] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=8
+[2022-11-20 23:59:14,289] CRITICAL: [Errno 110] Connection timed out
+[2022-11-20 23:59:14,289] INFO: Processing asmav station with id 9
+[2022-11-21 00:01:25,360] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=9
+[2022-11-21 00:01:25,361] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:01:25,361] INFO: Processing asmav station with id 10
+[2022-11-21 00:03:36,433] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=10
+[2022-11-21 00:03:36,433] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:03:36,433] INFO: Processing asmav station with id 11
+[2022-11-21 00:05:47,504] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=11
+[2022-11-21 00:05:47,505] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:05:47,505] INFO: Processing asmav station with id 12
+[2022-11-21 00:07:58,576] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=12
+[2022-11-21 00:07:58,577] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:07:58,577] INFO: Processing asmav station with id 13
+[2022-11-21 00:10:09,649] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=13
+[2022-11-21 00:10:09,649] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:10:09,649] INFO: Processing asmav station with id 14
+[2022-11-21 00:12:20,720] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=14
+[2022-11-21 00:12:20,721] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:12:20,721] INFO: Processing asmav station with id 15
+[2022-11-21 00:14:31,792] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=15
+[2022-11-21 00:14:31,793] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:14:31,793] INFO: Processing asmav station with id 16
+[2022-11-21 00:16:42,864] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=16
+[2022-11-21 00:16:42,865] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:16:42,865] INFO: Processing asmav station with id 17
+[2022-11-21 00:18:53,936] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=17
+[2022-11-21 00:18:53,937] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:18:53,937] INFO: Processing asmav station with id 18
+[2022-11-21 00:21:05,009] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=18
+[2022-11-21 00:21:05,009] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:21:05,009] INFO: Processing asmav station with id 19
+[2022-11-21 00:23:16,080] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=19
+[2022-11-21 00:23:16,081] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:23:16,081] INFO: Processing asmav station with id 20
+[2022-11-21 00:25:27,152] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=20
+[2022-11-21 00:25:27,153] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:25:27,153] INFO: Processing asmav station with id 21
+[2022-11-21 00:27:38,225] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=21
+[2022-11-21 00:27:38,225] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:27:38,225] INFO: Processing asmav station with id 22
+[2022-11-21 00:29:49,296] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=22
+[2022-11-21 00:29:49,297] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:29:49,297] INFO: Processing asmav station with id 23
+[2022-11-21 00:32:00,368] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=23
+[2022-11-21 00:32:00,369] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:32:00,369] INFO: Processing asmav station with id 24
+[2022-11-21 00:34:11,441] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=24
+[2022-11-21 00:34:11,441] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:34:11,441] INFO: Processing asmav station with id 25
+[2022-11-21 00:36:22,512] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=25
+[2022-11-21 00:36:22,513] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:36:22,513] INFO: Processing gmsav station with id 1
+[2022-11-21 00:38:33,584] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=1
+[2022-11-21 00:38:33,585] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:38:33,585] INFO: Processing gmsav station with id 2
+[2022-11-21 00:40:44,656] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=2
+[2022-11-21 00:40:44,657] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:40:44,657] INFO: Processing gmsav station with id 4
+[2022-11-21 00:42:55,728] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=4
+[2022-11-21 00:42:55,729] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:42:55,729] INFO: Processing gmsav station with id 6
+[2022-11-21 00:45:06,801] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=6
+[2022-11-21 00:45:06,801] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:45:06,801] INFO: Processing gmsav station with id 7
+[2022-11-21 00:47:17,872] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=7
+[2022-11-21 00:47:17,873] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:47:17,873] INFO: Processing gmsav station with id 8
+[2022-11-21 00:49:28,944] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=8
+[2022-11-21 00:49:28,945] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:49:28,945] INFO: Processing gmsav station with id 10
+[2022-11-21 00:51:40,016] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=10
+[2022-11-21 00:51:40,017] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:51:40,017] INFO: Processing gmsav station with id 12
+[2022-11-21 00:53:51,088] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=12
+[2022-11-21 00:53:51,089] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:53:51,089] INFO: Processing gmsav station with id 27
+[2022-11-21 00:56:02,160] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=27
+[2022-11-21 00:56:02,161] CRITICAL: [Errno 110] Connection timed out
+[2022-11-21 00:56:02,161] INFO: Extracted data for 2022-11-21T02:41:44+03:00
+[2022-11-21 00:56:02,161] INFO: 0 stations were processed successfuly 34 with errors
