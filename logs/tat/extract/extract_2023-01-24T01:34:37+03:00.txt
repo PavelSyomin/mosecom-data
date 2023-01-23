@@ -1,0 +1,5 @@
+[2023-01-23 22:34:37,089] INFO: Trying to get data
+[2023-01-23 22:34:37,090] INFO: Trying to get http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-01-23 22:36:50,719] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-01-23 22:36:50,720] CRITICAL: [Errno 110] Connection timed out
+[2023-01-23 22:36:50,720] WARNING: No data
