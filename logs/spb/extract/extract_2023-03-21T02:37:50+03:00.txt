@@ -1,0 +1,40 @@
+[2023-03-20 23:37:50,777] INFO: Getting station ids
+[2023-03-20 23:37:53,174] INFO: Obtained results: 25 asmav stations, 9 gmsav stations
+[2023-03-20 23:37:53,174] INFO: Processing asmav station with id 1
+[2023-03-20 23:38:01,731] INFO: Processing asmav station with id 2
+[2023-03-20 23:38:09,560] INFO: Processing asmav station with id 3
+[2023-03-20 23:38:15,847] INFO: Processing asmav station with id 4
+[2023-03-20 23:38:21,939] INFO: Processing asmav station with id 5
+[2023-03-20 23:38:29,677] INFO: Processing asmav station with id 6
+[2023-03-20 23:38:35,814] INFO: Processing asmav station with id 7
+[2023-03-20 23:38:42,123] INFO: Processing asmav station with id 8
+[2023-03-20 23:38:47,623] INFO: Processing asmav station with id 9
+[2023-03-20 23:38:52,982] INFO: Processing asmav station with id 10
+[2023-03-20 23:38:59,069] INFO: Processing asmav station with id 11
+[2023-03-20 23:39:05,268] INFO: Processing asmav station with id 12
+[2023-03-20 23:39:11,279] INFO: Processing asmav station with id 13
+[2023-03-20 23:39:17,457] INFO: Processing asmav station with id 14
+[2023-03-20 23:39:22,774] INFO: Processing asmav station with id 15
+[2023-03-20 23:39:28,101] INFO: Processing asmav station with id 16
+[2023-03-20 23:39:33,396] INFO: Processing asmav station with id 17
+[2023-03-20 23:41:44,311] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=17
+[2023-03-20 23:41:44,312] CRITICAL: [Errno 110] Connection timed out
+[2023-03-20 23:41:44,312] INFO: Processing asmav station with id 18
+[2023-03-20 23:41:49,698] INFO: Processing asmav station with id 19
+[2023-03-20 23:41:55,135] INFO: Processing asmav station with id 20
+[2023-03-20 23:42:00,689] INFO: Processing asmav station with id 21
+[2023-03-20 23:42:05,912] INFO: Processing asmav station with id 22
+[2023-03-20 23:42:11,189] INFO: Processing asmav station with id 23
+[2023-03-20 23:42:16,634] INFO: Processing asmav station with id 24
+[2023-03-20 23:42:21,994] INFO: Processing asmav station with id 25
+[2023-03-20 23:42:28,299] INFO: Processing gmsav station with id 1
+[2023-03-20 23:42:34,624] INFO: Processing gmsav station with id 2
+[2023-03-20 23:42:39,882] INFO: Processing gmsav station with id 4
+[2023-03-20 23:42:45,180] INFO: Processing gmsav station with id 6
+[2023-03-20 23:42:50,467] INFO: Processing gmsav station with id 7
+[2023-03-20 23:42:55,781] INFO: Processing gmsav station with id 8
+[2023-03-20 23:43:01,224] INFO: Processing gmsav station with id 10
+[2023-03-20 23:43:06,987] INFO: Processing gmsav station with id 12
+[2023-03-20 23:43:12,716] INFO: Processing gmsav station with id 27
+[2023-03-20 23:43:18,031] INFO: Extracted data for 2023-03-21T02:37:50+03:00
+[2023-03-20 23:43:18,031] INFO: 33 stations were processed successfuly 1 with errors
