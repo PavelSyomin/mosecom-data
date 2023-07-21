@@ -1,8 +1,9 @@
+from datetime import datetime, timedelta, timezone
 import json
 import logging
 import os
 import re
-from datetime import datetime, timedelta, timezone
+import time
 from urllib.error import HTTPError, URLError
 from urllib.request import urlopen
 
@@ -20,6 +21,8 @@ logging.basicConfig(
     format="[%(asctime)s] %(levelname)s: %(message)s",
     level=logging.DEBUG
 )
+MAX_ATTEMPTS = 50
+TIMEOUT = 1
 
 def main():
     logging.info(f"Trying to get data")
@@ -35,16 +38,27 @@ def main():
 
 def get_raw_data(url):
     logging.info(f"Trying to get {url}")
-    try:
-        with urlopen(url) as con:
-            html = con.read().decode()
-    except HTTPError as e:
-        logging.critical(f"Cannot get data from {url}")
-        logging.critical(f"Error code {e.code}: {e.reason}")
-        return None
-    except URLError as e:
-        logging.critical(f"Cannot get data from {url}")
-        logging.critical(f"{e.reason}")
+    for i in range(MAX_ATTEMPTS):
+        try:
+            with urlopen(url) as con:
+                html = con.read().decode()
+            break
+        except HTTPError as e:
+            logging.critical(f"Cannot get data from {url}")
+            logging.critical(f"Error code {e.code}: {e.reason}")
+            html = None
+        except URLError as e:
+            logging.critical(f"Cannot get data from {url}")
+            logging.critical(f"{e.reason}")
+            html = None
+        except ConnectionError as e:
+            logging.critical(f"Cannot get data from {url}")
+            logging.critical(f"{e}")
+            html = None
+        time.sleep(TIMEOUT)
+
+    if html is None:
+        logging.critical(f"Exceeded {MAX_ATTEMPTS}")
         return None
 
     logging.info("Data retrieved. Extracting placemarks")
