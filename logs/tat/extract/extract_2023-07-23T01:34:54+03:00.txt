@@ -1,0 +1,9 @@
+[2023-07-22 22:34:54,383] INFO: Trying to get data
+[2023-07-22 22:34:54,383] INFO: Trying to get http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-07-22 22:34:58,689] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-07-22 22:34:58,689] CRITICAL: [Errno 104] Connection reset by peer
+[2023-07-22 22:35:05,409] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-07-22 22:35:05,409] CRITICAL: [Errno 104] Connection reset by peer
+[2023-07-22 22:35:17,314] INFO: Data retrieved. Extracting placemarks
+[2023-07-22 22:35:17,314] INFO: Detected 21 placemarks
+[2023-07-22 22:35:17,315] INFO: Data saved to data/tat/raw/2023-07-23T01:34:54+03:00.json
