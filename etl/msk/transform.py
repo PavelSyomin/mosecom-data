@@ -53,6 +53,9 @@ for dirname, _, filenames in os.walk(params.raw_data_dir):
         dtypes = ("hourly", "daily", "monthly")
     else:
         dtypes = ("every_5_minutes",)
+        logging.info("Creating of data product for profilers is disabled "
+                     "due to GitHub file size limitations")
+        continue
 
     for dtype in dtypes:
         out_file = os.path.join(out_dir, f"rolling_{dtype}.csv")
