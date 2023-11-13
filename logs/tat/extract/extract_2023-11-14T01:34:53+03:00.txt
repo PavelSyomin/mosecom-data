@@ -1,0 +1,104 @@
+[2023-11-13 22:34:53,248] INFO: Trying to get data
+[2023-11-13 22:34:53,248] INFO: Trying to get http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:34:58,869] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:34:58,870] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:35:05,910] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:35:05,910] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:35:16,323] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:35:16,323] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:35:22,018] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:35:22,018] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:35:27,964] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:35:27,964] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:35:38,466] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:35:38,466] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:35:44,564] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:35:44,564] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:35:50,165] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:35:50,165] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:35:56,051] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:35:56,051] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:35:57,548] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:35:57,548] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:35:59,312] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:35:59,312] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:00,809] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:00,809] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:02,306] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:02,306] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:03,801] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:03,801] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:05,292] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:05,292] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:06,786] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:06,786] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:08,281] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:08,281] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:14,477] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:14,477] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:16,507] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:16,507] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:22,302] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:22,302] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:23,800] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:23,800] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:29,773] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:29,773] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:31,276] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:31,276] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:42,291] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:42,291] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:43,796] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:43,796] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:45,289] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:45,289] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:46,787] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:46,787] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:48,282] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:48,283] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:49,781] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:49,781] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:51,272] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:51,272] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:52,764] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:52,765] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:54,259] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:54,259] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:55,755] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:55,755] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:57,250] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:57,250] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:36:58,745] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:36:58,745] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:00,239] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:00,239] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:01,734] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:01,734] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:03,226] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:03,227] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:04,720] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:04,720] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:06,214] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:06,214] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:07,720] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:07,720] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:09,212] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:09,212] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:10,705] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:10,705] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:12,197] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:12,197] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:13,695] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:13,695] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:15,189] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:15,189] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:16,934] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:16,934] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:18,428] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:18,428] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:19,923] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:19,923] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:21,416] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2023-11-13 22:37:21,416] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+[2023-11-13 22:37:22,418] CRITICAL: Exceeded 50
+[2023-11-13 22:37:22,418] WARNING: No data
