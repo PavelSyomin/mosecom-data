@@ -1,0 +1,106 @@
+[2023-12-20 23:37:56,393] INFO: Getting station ids
+[2023-12-20 23:37:59,037] INFO: Obtained results: 25 asmav stations, 9 gmsav stations
+[2023-12-20 23:37:59,037] INFO: Processing asmav station with id 1
+[2023-12-20 23:38:09,024] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=1
+[2023-12-20 23:38:09,025] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:38:09,025] INFO: Processing asmav station with id 2
+[2023-12-20 23:38:19,042] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=2
+[2023-12-20 23:38:19,042] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:38:19,042] INFO: Processing asmav station with id 3
+[2023-12-20 23:38:29,060] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=3
+[2023-12-20 23:38:29,060] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:38:29,060] INFO: Processing asmav station with id 4
+[2023-12-20 23:38:39,079] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=4
+[2023-12-20 23:38:39,079] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:38:39,079] INFO: Processing asmav station with id 5
+[2023-12-20 23:38:49,110] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=5
+[2023-12-20 23:38:49,110] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:38:49,110] INFO: Processing asmav station with id 6
+[2023-12-20 23:38:59,134] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=6
+[2023-12-20 23:38:59,134] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:38:59,134] INFO: Processing asmav station with id 7
+[2023-12-20 23:39:09,149] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=7
+[2023-12-20 23:39:09,149] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:39:09,149] INFO: Processing asmav station with id 8
+[2023-12-20 23:39:19,166] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=8
+[2023-12-20 23:39:19,166] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:39:19,166] INFO: Processing asmav station with id 9
+[2023-12-20 23:39:29,183] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=9
+[2023-12-20 23:39:29,183] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:39:29,183] INFO: Processing asmav station with id 10
+[2023-12-20 23:39:39,196] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=10
+[2023-12-20 23:39:39,196] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:39:39,196] INFO: Processing asmav station with id 11
+[2023-12-20 23:39:49,211] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=11
+[2023-12-20 23:39:49,211] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:39:49,211] INFO: Processing asmav station with id 12
+[2023-12-20 23:39:59,228] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=12
+[2023-12-20 23:39:59,228] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:39:59,228] INFO: Processing asmav station with id 13
+[2023-12-20 23:40:09,247] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=13
+[2023-12-20 23:40:09,248] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:40:09,248] INFO: Processing asmav station with id 14
+[2023-12-20 23:40:19,260] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=14
+[2023-12-20 23:40:19,260] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:40:19,261] INFO: Processing asmav station with id 15
+[2023-12-20 23:40:29,272] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=15
+[2023-12-20 23:40:29,272] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:40:29,272] INFO: Processing asmav station with id 16
+[2023-12-20 23:40:39,289] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=16
+[2023-12-20 23:40:39,289] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:40:39,289] INFO: Processing asmav station with id 17
+[2023-12-20 23:40:49,305] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=17
+[2023-12-20 23:40:49,305] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:40:49,305] INFO: Processing asmav station with id 18
+[2023-12-20 23:40:59,321] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=18
+[2023-12-20 23:40:59,322] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:40:59,322] INFO: Processing asmav station with id 19
+[2023-12-20 23:41:09,339] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=19
+[2023-12-20 23:41:09,339] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:41:09,339] INFO: Processing asmav station with id 20
+[2023-12-20 23:41:19,357] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=20
+[2023-12-20 23:41:19,357] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:41:19,357] INFO: Processing asmav station with id 21
+[2023-12-20 23:41:29,376] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=21
+[2023-12-20 23:41:29,376] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:41:29,376] INFO: Processing asmav station with id 22
+[2023-12-20 23:41:39,390] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=22
+[2023-12-20 23:41:39,390] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:41:39,390] INFO: Processing asmav station with id 23
+[2023-12-20 23:41:49,419] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=23
+[2023-12-20 23:41:49,419] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:41:49,419] INFO: Processing asmav station with id 24
+[2023-12-20 23:41:59,448] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=24
+[2023-12-20 23:41:59,448] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:41:59,449] INFO: Processing asmav station with id 25
+[2023-12-20 23:42:09,479] CRITICAL: Cannot get data from https://www.mineral.spb.ru/asmav30d/index.php?id=25
+[2023-12-20 23:42:09,479] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:42:09,479] INFO: Processing gmsav station with id 1
+[2023-12-20 23:42:19,508] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=1
+[2023-12-20 23:42:19,508] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:42:19,509] INFO: Processing gmsav station with id 2
+[2023-12-20 23:42:29,526] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=2
+[2023-12-20 23:42:29,526] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:42:29,526] INFO: Processing gmsav station with id 4
+[2023-12-20 23:42:39,543] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=4
+[2023-12-20 23:42:39,543] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:42:39,543] INFO: Processing gmsav station with id 6
+[2023-12-20 23:42:49,561] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=6
+[2023-12-20 23:42:49,561] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:42:49,561] INFO: Processing gmsav station with id 7
+[2023-12-20 23:42:59,579] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=7
+[2023-12-20 23:42:59,579] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:42:59,579] INFO: Processing gmsav station with id 8
+[2023-12-20 23:43:09,591] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=8
+[2023-12-20 23:43:09,591] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:43:09,591] INFO: Processing gmsav station with id 10
+[2023-12-20 23:43:19,606] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=10
+[2023-12-20 23:43:19,607] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:43:19,607] INFO: Processing gmsav station with id 12
+[2023-12-20 23:43:29,625] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=12
+[2023-12-20 23:43:29,625] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:43:29,625] INFO: Processing gmsav station with id 27
+[2023-12-20 23:43:39,635] CRITICAL: Cannot get data from https://www.mineral.spb.ru/gmsav30d/index.php?id=27
+[2023-12-20 23:43:39,635] CRITICAL: [Errno -3] Temporary failure in name resolution
+[2023-12-20 23:43:39,636] INFO: Extracted data for 2023-12-21T02:37:56+03:00
+[2023-12-20 23:43:39,636] INFO: 0 stations were processed successfuly 34 with errors
