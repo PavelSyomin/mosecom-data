@@ -1,0 +1,2 @@
+[2024-01-21 11:50:57,853] CRITICAL: Cannot get data from http://www.feerc.ru/uisem/portal/ad/services/getData.php?d=now&t=ntag
+[2024-01-21 11:50:57,853] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.feerc.ru'. (_ssl.c:1007)
