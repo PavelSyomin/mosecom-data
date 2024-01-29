@@ -1,0 +1,73 @@
+[2024-01-29 23:12:32,750] ERROR: Cannot extract points
+[2024-01-29 23:12:32,751] INFO: Loaded previous version of points from data/msk/raw/points.json
+[2024-01-29 23:12:34,847] ERROR: Cannot extract data for akademika-anoxina stations
+[2024-01-29 23:12:36,938] ERROR: Cannot extract data for bazovskaya stations
+[2024-01-29 23:12:38,991] ERROR: Cannot extract data for birulevo stations
+[2024-01-29 23:12:40,520] ERROR: Cannot extract data for brateevo stations
+[2024-01-29 23:12:42,088] ERROR: Cannot extract data for butlerova stations
+[2024-01-29 23:12:43,976] ERROR: Cannot extract data for veshnyaki stations
+[2024-01-29 23:12:45,662] ERROR: Cannot extract data for glebovskaya stations
+[2024-01-29 23:12:48,025] ERROR: Cannot extract data for gurevskij-proezd stations
+[2024-01-29 23:12:49,904] ERROR: Cannot extract data for guryanova stations
+[2024-01-29 23:12:51,455] ERROR: Cannot extract data for dolgoprudnaya stations
+[2024-01-29 23:12:53,334] ERROR: Cannot extract data for zelenograd-11 stations
+[2024-01-29 23:12:54,902] INFO: Extracted data for zelenograd-16 stations
+[2024-01-29 23:12:54,903] INFO: Data for zelenograd-16 stations saved to data/msk/raw/stations/zelenograd-16/zelenograd-16_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:12:56,725] ERROR: Cannot extract data for zelenograd-6 stations
+[2024-01-29 23:12:58,285] ERROR: Cannot extract data for kazakova stations
+[2024-01-29 23:12:59,969] ERROR: Cannot extract data for kapotnya stations
+[2024-01-29 23:13:01,623] ERROR: Cannot extract data for kozhuxovo stations
+[2024-01-29 23:13:03,389] ERROR: Cannot extract data for kozhuxovskij-proezd stations
+[2024-01-29 23:13:04,947] ERROR: Cannot extract data for koptevskij stations
+[2024-01-29 23:13:06,401] INFO: Extracted data for kuznecovo stations
+[2024-01-29 23:13:06,403] INFO: Data for kuznecovo stations saved to data/msk/raw/stations/kuznecovo/kuznecovo_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:13:07,972] INFO: Extracted data for losinyj-ostrov stations
+[2024-01-29 23:13:07,973] INFO: Data for losinyj-ostrov stations saved to data/msk/raw/stations/losinyj-ostrov/losinyj-ostrov_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:13:09,607] INFO: Extracted data for lyublino stations
+[2024-01-29 23:13:09,608] INFO: Data for lyublino stations saved to data/msk/raw/stations/lyublino/lyublino_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:13:11,206] ERROR: Cannot extract data for ochakovskaya stations
+[2024-01-29 23:13:12,890] ERROR: Cannot extract data for m2-zhulebino stations
+[2024-01-29 23:13:14,509] ERROR: Cannot extract data for madi stations
+[2024-01-29 23:13:16,157] ERROR: Cannot extract data for marino stations
+[2024-01-29 23:13:17,727] ERROR: Cannot extract data for mgu stations
+[2024-01-29 23:13:19,335] ERROR: Cannot extract data for melitopolskaya stations
+[2024-01-29 23:13:20,831] ERROR: Cannot extract data for narodnogo-opolcheniya stations
+[2024-01-29 23:13:22,430] ERROR: Cannot extract data for nizhnyaya-maslovka stations
+[2024-01-29 23:13:23,943] ERROR: Cannot extract data for novokosino stations
+[2024-01-29 23:13:25,602] ERROR: Cannot extract data for ostankino-0 stations
+[2024-01-29 23:13:27,054] INFO: Extracted data for ochakovskoe-2 stations
+[2024-01-29 23:13:27,055] INFO: Data for ochakovskoe-2 stations saved to data/msk/raw/stations/ochakovskoe-2/ochakovskoe-2_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:13:28,584] ERROR: Cannot extract data for ploshhad-gagarina stations
+[2024-01-29 23:13:30,176] INFO: Extracted data for polyarnaya stations
+[2024-01-29 23:13:30,177] INFO: Data for polyarnaya stations saved to data/msk/raw/stations/polyarnaya/polyarnaya_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:13:31,882] ERROR: Cannot extract data for proletarskij-prospekt stations
+[2024-01-29 23:13:33,494] ERROR: Cannot extract data for rogovo stations
+[2024-01-29 23:13:35,011] INFO: Extracted data for salarevo stations
+[2024-01-29 23:13:35,012] INFO: Data for salarevo stations saved to data/msk/raw/stations/salarevo/salarevo_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:13:36,422] ERROR: Cannot extract data for svetlyj-proezd stations
+[2024-01-29 23:13:38,021] INFO: Extracted data for semenkovo stations
+[2024-01-29 23:13:38,022] INFO: Data for semenkovo stations saved to data/msk/raw/stations/semenkovo/semenkovo_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:13:39,543] ERROR: Cannot extract data for spiridonovka stations
+[2024-01-29 23:13:40,999] ERROR: Cannot extract data for suxarevskaya-ploshhad stations
+[2024-01-29 23:13:42,510] ERROR: Cannot extract data for texnopolis stations
+[2024-01-29 23:13:43,989] INFO: Extracted data for tolbuxina stations
+[2024-01-29 23:13:43,990] INFO: Data for tolbuxina stations saved to data/msk/raw/stations/tolbuxina/tolbuxina_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:13:45,492] INFO: Extracted data for troitsk stations
+[2024-01-29 23:13:45,493] INFO: Data for troitsk stations saved to data/msk/raw/stations/troitsk/troitsk_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:13:47,123] ERROR: Cannot extract data for turistskaya stations
+[2024-01-29 23:13:48,710] ERROR: Cannot extract data for xamovniki stations
+[2024-01-29 23:13:50,440] INFO: Extracted data for chayanova stations
+[2024-01-29 23:13:50,441] INFO: Data for chayanova stations saved to data/msk/raw/stations/chayanova/chayanova_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:13:52,319] ERROR: Cannot extract data for shabolovka stations
+[2024-01-29 23:13:53,731] INFO: Extracted data for shherbinka stations
+[2024-01-29 23:13:53,732] INFO: Data for shherbinka stations saved to data/msk/raw/stations/shherbinka/shherbinka_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:13:54,673] INFO: Extracted data for yuzhnoe-chertanovo stations
+[2024-01-29 23:13:54,673] ERROR: Incorrect data for yuzhnoe-chertanovo stationsdata['message']
+[2024-01-29 23:13:56,113] ERROR: Cannot extract data for mkad105 special stations
+[2024-01-29 23:13:57,569] INFO: Extracted data for mkad-52-km-zapad special stations
+[2024-01-29 23:13:57,570] INFO: Data for mkad-52-km-zapad special stations saved to data/msk/raw/special_stations/mkad-52-km-zapad/mkad-52-km-zapad_2024-01-30T02:12:30+03:00.json
+[2024-01-29 23:13:58,853] ERROR: Cannot extract data for spartakovskaya-ploshhad special stations
+[2024-01-29 23:14:00,114] ERROR: Cannot extract data for troizk-2 special stations
+[2024-01-29 23:14:01,692] ERROR: Cannot extract data for vostok profilers
+[2024-01-29 23:14:03,951] ERROR: Cannot extract data for ostankino profilers
+[2024-01-29 23:14:03,952] INFO: Extracted data: {'stations': 13, 'special_stations': 1}
