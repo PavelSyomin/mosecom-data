@@ -3,6 +3,7 @@ import json
 import logging
 import os
 import re
+import ssl
 import time
 from urllib.error import HTTPError, URLError
 from urllib.request import urlopen
@@ -38,9 +39,13 @@ def main():
 
 def get_raw_data(url):
     logging.info(f"Trying to get {url}")
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+
     for i in range(MAX_ATTEMPTS):
         try:
-            with urlopen(url) as con:
+            with urlopen(url, context=ctx) as con:
                 html = con.read().decode()
             break
         except HTTPError as e:
