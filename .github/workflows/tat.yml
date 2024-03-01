@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   # Run every day
   schedule:
-    - cron: "30 22 * * *"
+    - cron: "30 03 * * *"
 
 jobs:
   # Get raw data from http://www.tatarmeteo.ru
