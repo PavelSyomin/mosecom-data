@@ -1,0 +1,114 @@
+[2024-06-04 01:07:57,555] ERROR: Cannot extract points
+[2024-06-04 01:07:57,555] INFO: Loaded previous version of points from data/msk/raw/points.json
+[2024-06-04 01:08:29,050] INFO: Extracted data for akademika-anoxina stations
+[2024-06-04 01:08:29,050] ERROR: Incorrect data for akademika-anoxina stationsdata['message']
+[2024-06-04 01:08:31,039] INFO: Extracted data for bazovskaya stations
+[2024-06-04 01:08:31,041] INFO: Data for bazovskaya stations saved to data/msk/raw/stations/bazovskaya/bazovskaya_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:08:32,830] INFO: Extracted data for birulevo stations
+[2024-06-04 01:08:32,832] INFO: Data for birulevo stations saved to data/msk/raw/stations/birulevo/birulevo_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:09:03,629] INFO: Extracted data for brateevo stations
+[2024-06-04 01:09:03,630] ERROR: Incorrect data for brateevo stationsdata['message']
+[2024-06-04 01:09:05,219] INFO: Extracted data for butlerova stations
+[2024-06-04 01:09:05,221] INFO: Data for butlerova stations saved to data/msk/raw/stations/butlerova/butlerova_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:09:36,343] INFO: Extracted data for veshnyaki stations
+[2024-06-04 01:09:36,343] ERROR: Incorrect data for veshnyaki stationsdata['message']
+[2024-06-04 01:09:38,799] INFO: Extracted data for glebovskaya stations
+[2024-06-04 01:09:38,800] INFO: Data for glebovskaya stations saved to data/msk/raw/stations/glebovskaya/glebovskaya_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:10:09,596] INFO: Extracted data for gurevskij-proezd stations
+[2024-06-04 01:10:09,596] ERROR: Incorrect data for gurevskij-proezd stationsdata['message']
+[2024-06-04 01:10:17,008] INFO: Extracted data for guryanova stations
+[2024-06-04 01:10:17,010] INFO: Data for guryanova stations saved to data/msk/raw/stations/guryanova/guryanova_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:10:48,243] INFO: Extracted data for dolgoprudnaya stations
+[2024-06-04 01:10:48,243] ERROR: Incorrect data for dolgoprudnaya stationsdata['message']
+[2024-06-04 01:10:50,464] INFO: Extracted data for zelenograd-11 stations
+[2024-06-04 01:10:50,465] INFO: Data for zelenograd-11 stations saved to data/msk/raw/stations/zelenograd-11/zelenograd-11_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:11:21,411] INFO: Extracted data for zelenograd-16 stations
+[2024-06-04 01:11:21,411] ERROR: Incorrect data for zelenograd-16 stationsdata['message']
+[2024-06-04 01:11:22,905] INFO: Extracted data for zelenograd-6 stations
+[2024-06-04 01:11:22,906] INFO: Data for zelenograd-6 stations saved to data/msk/raw/stations/zelenograd-6/zelenograd-6_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:11:53,736] INFO: Extracted data for kazakova stations
+[2024-06-04 01:11:53,736] ERROR: Incorrect data for kazakova stationsdata['message']
+[2024-06-04 01:11:55,739] INFO: Extracted data for kapotnya stations
+[2024-06-04 01:11:55,740] INFO: Data for kapotnya stations saved to data/msk/raw/stations/kapotnya/kapotnya_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:12:26,207] INFO: Extracted data for kozhuxovo stations
+[2024-06-04 01:12:26,208] ERROR: Incorrect data for kozhuxovo stationsdata['message']
+[2024-06-04 01:12:28,094] INFO: Extracted data for kozhuxovskij-proezd stations
+[2024-06-04 01:12:28,097] INFO: Data for kozhuxovskij-proezd stations saved to data/msk/raw/stations/kozhuxovskij-proezd/kozhuxovskij-proezd_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:12:58,941] INFO: Extracted data for koptevskij stations
+[2024-06-04 01:12:58,941] ERROR: Incorrect data for koptevskij stationsdata['message']
+[2024-06-04 01:13:00,373] INFO: Extracted data for kuznecovo stations
+[2024-06-04 01:13:00,374] INFO: Data for kuznecovo stations saved to data/msk/raw/stations/kuznecovo/kuznecovo_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:13:30,849] INFO: Extracted data for losinyj-ostrov stations
+[2024-06-04 01:13:30,850] ERROR: Incorrect data for losinyj-ostrov stationsdata['message']
+[2024-06-04 01:13:32,398] INFO: Extracted data for lyublino stations
+[2024-06-04 01:13:32,400] INFO: Data for lyublino stations saved to data/msk/raw/stations/lyublino/lyublino_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:14:03,402] INFO: Extracted data for ochakovskaya stations
+[2024-06-04 01:14:03,402] ERROR: Incorrect data for ochakovskaya stationsdata['message']
+[2024-06-04 01:14:05,275] INFO: Extracted data for m2-zhulebino stations
+[2024-06-04 01:14:05,276] INFO: Data for m2-zhulebino stations saved to data/msk/raw/stations/m2-zhulebino/m2-zhulebino_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:14:35,757] INFO: Extracted data for madi stations
+[2024-06-04 01:14:35,758] ERROR: Incorrect data for madi stationsdata['message']
+[2024-06-04 01:14:37,604] INFO: Extracted data for marino stations
+[2024-06-04 01:14:37,606] INFO: Data for marino stations saved to data/msk/raw/stations/marino/marino_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:15:08,101] INFO: Extracted data for mgu stations
+[2024-06-04 01:15:08,102] ERROR: Incorrect data for mgu stationsdata['message']
+[2024-06-04 01:15:09,839] INFO: Extracted data for melitopolskaya stations
+[2024-06-04 01:15:09,841] INFO: Data for melitopolskaya stations saved to data/msk/raw/stations/melitopolskaya/melitopolskaya_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:15:40,639] INFO: Extracted data for narodnogo-opolcheniya stations
+[2024-06-04 01:15:40,639] ERROR: Incorrect data for narodnogo-opolcheniya stationsdata['message']
+[2024-06-04 01:15:42,639] INFO: Extracted data for nizhnyaya-maslovka stations
+[2024-06-04 01:15:42,642] INFO: Data for nizhnyaya-maslovka stations saved to data/msk/raw/stations/nizhnyaya-maslovka/nizhnyaya-maslovka_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:16:13,145] INFO: Extracted data for novokosino stations
+[2024-06-04 01:16:13,145] ERROR: Incorrect data for novokosino stationsdata['message']
+[2024-06-04 01:16:14,902] INFO: Extracted data for ostankino-0 stations
+[2024-06-04 01:16:14,904] INFO: Data for ostankino-0 stations saved to data/msk/raw/stations/ostankino-0/ostankino-0_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:16:45,552] INFO: Extracted data for ochakovskoe-2 stations
+[2024-06-04 01:16:45,552] ERROR: Incorrect data for ochakovskoe-2 stationsdata['message']
+[2024-06-04 01:16:47,296] INFO: Extracted data for ploshhad-gagarina stations
+[2024-06-04 01:16:47,298] INFO: Data for ploshhad-gagarina stations saved to data/msk/raw/stations/ploshhad-gagarina/ploshhad-gagarina_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:17:17,959] INFO: Extracted data for polyarnaya stations
+[2024-06-04 01:17:17,959] ERROR: Incorrect data for polyarnaya stationsdata['message']
+[2024-06-04 01:17:19,665] INFO: Extracted data for proletarskij-prospekt stations
+[2024-06-04 01:17:19,667] INFO: Data for proletarskij-prospekt stations saved to data/msk/raw/stations/proletarskij-prospekt/proletarskij-prospekt_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:17:50,160] INFO: Extracted data for rogovo stations
+[2024-06-04 01:17:50,160] ERROR: Incorrect data for rogovo stationsdata['message']
+[2024-06-04 01:17:51,843] INFO: Extracted data for salarevo stations
+[2024-06-04 01:17:51,844] INFO: Data for salarevo stations saved to data/msk/raw/stations/salarevo/salarevo_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:18:22,512] INFO: Extracted data for svetlyj-proezd stations
+[2024-06-04 01:18:22,512] ERROR: Incorrect data for svetlyj-proezd stationsdata['message']
+[2024-06-04 01:18:24,108] INFO: Extracted data for semenkovo stations
+[2024-06-04 01:18:24,109] INFO: Data for semenkovo stations saved to data/msk/raw/stations/semenkovo/semenkovo_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:18:25,800] INFO: Extracted data for spiridonovka stations
+[2024-06-04 01:18:25,802] INFO: Data for spiridonovka stations saved to data/msk/raw/stations/spiridonovka/spiridonovka_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:18:56,323] INFO: Extracted data for suxarevskaya-ploshhad stations
+[2024-06-04 01:18:56,324] ERROR: Incorrect data for suxarevskaya-ploshhad stationsdata['message']
+[2024-06-04 01:18:57,989] INFO: Extracted data for texnopolis stations
+[2024-06-04 01:18:57,990] INFO: Data for texnopolis stations saved to data/msk/raw/stations/texnopolis/texnopolis_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:19:28,651] INFO: Extracted data for tolbuxina stations
+[2024-06-04 01:19:28,651] ERROR: Incorrect data for tolbuxina stationsdata['message']
+[2024-06-04 01:19:30,096] INFO: Extracted data for troitsk stations
+[2024-06-04 01:19:30,097] INFO: Data for troitsk stations saved to data/msk/raw/stations/troitsk/troitsk_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:20:00,579] INFO: Extracted data for turistskaya stations
+[2024-06-04 01:20:00,580] ERROR: Incorrect data for turistskaya stationsdata['message']
+[2024-06-04 01:20:09,409] INFO: Extracted data for xamovniki stations
+[2024-06-04 01:20:09,411] INFO: Data for xamovniki stations saved to data/msk/raw/stations/xamovniki/xamovniki_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:20:40,070] INFO: Extracted data for chayanova stations
+[2024-06-04 01:20:40,070] ERROR: Incorrect data for chayanova stationsdata['message']
+[2024-06-04 01:20:41,867] INFO: Extracted data for shabolovka stations
+[2024-06-04 01:20:41,869] INFO: Data for shabolovka stations saved to data/msk/raw/stations/shabolovka/shabolovka_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:21:12,668] INFO: Extracted data for shherbinka stations
+[2024-06-04 01:21:12,668] ERROR: Incorrect data for shherbinka stationsdata['message']
+[2024-06-04 01:21:13,488] INFO: Extracted data for yuzhnoe-chertanovo stations
+[2024-06-04 01:21:13,488] ERROR: Incorrect data for yuzhnoe-chertanovo stationsdata['message']
+[2024-06-04 01:21:44,297] INFO: Extracted data for mkad105 special stations
+[2024-06-04 01:21:44,297] ERROR: Incorrect data for mkad105 special stationsdata['message']
+[2024-06-04 01:21:45,906] INFO: Extracted data for mkad-52-km-zapad special stations
+[2024-06-04 01:21:45,907] INFO: Data for mkad-52-km-zapad special stations saved to data/msk/raw/special_stations/mkad-52-km-zapad/mkad-52-km-zapad_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:22:16,569] INFO: Extracted data for spartakovskaya-ploshhad special stations
+[2024-06-04 01:22:16,569] ERROR: Incorrect data for spartakovskaya-ploshhad special stationsdata['message']
+[2024-06-04 01:22:17,560] INFO: Extracted data for troizk-2 special stations
+[2024-06-04 01:22:17,560] ERROR: Incorrect data for troizk-2 special stationsdata['message']
+[2024-06-04 01:24:18,029] ERROR: Cannot extract data for vostok profilers
+[2024-06-04 01:24:21,213] INFO: Extracted data for ostankino profilers
+[2024-06-04 01:24:21,231] INFO: Data for ostankino profilers saved to data/msk/raw/profilers/ostankino/ostankino_2024-06-04T04:07:55+03:00.json
+[2024-06-04 01:24:21,231] INFO: Extracted data: {'stations': 50, 'special_stations': 4, 'profilers': 1}
