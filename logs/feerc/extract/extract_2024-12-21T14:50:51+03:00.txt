@@ -1,0 +1,2 @@
+[2024-12-21 11:50:53,576] CRITICAL: Cannot get data from http://www.feerc.ru/uisem/portal/ad/services/getData.php?d=now&t=ntag
+[2024-12-21 11:50:53,576] CRITICAL: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
