@@ -1,7 +1,13 @@
 from collections import namedtuple
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
+import ssl
 from urllib.request import urlopen
+
+
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
 
 Meteodata = namedtuple("Meteodata",
     ["datetime", "height", "temperature"])
@@ -37,7 +43,7 @@ class MeteoprofileParser(HTMLParser):
     def parse(self, profiler_name):
         url = self._BASE_URL + profiler_name
         try:
-            with urlopen(url) as con:
+            with urlopen(url, context=ctx) as con:
                 html = con.read().decode("utf8")
                 self.feed(html)
         except:
