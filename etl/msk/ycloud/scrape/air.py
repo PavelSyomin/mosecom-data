@@ -2,8 +2,13 @@ import re
 from collections import namedtuple
 from datetime import datetime, timedelta, timezone
 from json import loads
+import ssl
 from urllib.request import urlopen
 
+
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
 
 PollutionData = namedtuple("PollutionData",
     ["datetime", "pollutant", "value"])
@@ -18,14 +23,14 @@ class PollutionParser:
             "y": "monthly"
         }
         self._data = {}
-
+    
     def parse(self, point_name):
         url = self._BASE_URL + point_name
         try:
-            with urlopen(url, timeout=30) as con:
+            with urlopen(url, timeout=30, context=ctx) as con:
                 html = con.read().decode("utf8")
-        except:
-            raise RuntimeError(f"Cannot open url {url}")
+        except Exception as e:
+            raise RuntimeError(f"Cannot open url {url}: {e}")
 
         script = re.findall("AirCharts.init.*", html)[0]
         data_start = len("AirCharts.init(")
