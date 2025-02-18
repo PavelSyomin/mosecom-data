@@ -1,8 +1,13 @@
 from json import dumps
+import ssl
 from urllib.request import urlopen
 
 from bs4 import BeautifulSoup
 
+
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
 
 def parse():
     INFO_URLS = {
@@ -15,13 +20,15 @@ def parse():
         "special_stations": [],
         "profilers": [
             "vostok",
-            "ostankino"
+            "ostankino",
+            "profilemer-ifa-ran",
+            "profilemer-salarevo"
         ] # added manually, because there are only 2 profilers
     }
 
     for point_type, url in INFO_URLS.items():
         try:
-            with urlopen(url) as con:
+            with urlopen(url, context=ctx) as con:
                 html = con.read().decode("utf8")
         except:
             continue
