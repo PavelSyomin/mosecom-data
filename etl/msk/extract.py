@@ -159,7 +159,7 @@ def extract_data(ptype: str, pname: str) -> int:
             return 1
     else:
         logging.error(f"Incorrect data for {pname} {ptype_print}"
-            + f"data['message']")
+            + f" {data['message']}")
 
     return 0
 
