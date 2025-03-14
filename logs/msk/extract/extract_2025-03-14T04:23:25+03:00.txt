@@ -1,0 +1,110 @@
+[2025-03-14 01:23:27,677] ERROR: Cannot extract points
+[2025-03-14 01:23:27,678] INFO: Loaded previous version of points from data/msk/raw/points.json
+[2025-03-14 01:23:30,453] INFO: Extracted data for akademika-anoxina stations
+[2025-03-14 01:23:30,454] INFO: Data for akademika-anoxina stations saved to data/msk/raw/stations/akademika-anoxina/akademika-anoxina_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:34,261] INFO: Extracted data for bazovskaya stations
+[2025-03-14 01:23:34,262] INFO: Data for bazovskaya stations saved to data/msk/raw/stations/bazovskaya/bazovskaya_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:36,394] INFO: Extracted data for birulevo stations
+[2025-03-14 01:23:36,395] INFO: Data for birulevo stations saved to data/msk/raw/stations/birulevo/birulevo_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:37,196] INFO: Extracted data for brateevo stations
+[2025-03-14 01:23:37,196] ERROR: Incorrect data for brateevo stations Error info: Cannot open url https://mosecom.mos.ru/brateevo: HTTP Error 404: Not Found
+[2025-03-14 01:23:39,015] INFO: Extracted data for butlerova stations
+[2025-03-14 01:23:39,016] INFO: Data for butlerova stations saved to data/msk/raw/stations/butlerova/butlerova_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:40,628] INFO: Extracted data for veshnyaki stations
+[2025-03-14 01:23:40,630] INFO: Data for veshnyaki stations saved to data/msk/raw/stations/veshnyaki/veshnyaki_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:42,370] INFO: Extracted data for glebovskaya stations
+[2025-03-14 01:23:42,371] INFO: Data for glebovskaya stations saved to data/msk/raw/stations/glebovskaya/glebovskaya_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:44,480] INFO: Extracted data for gurevskij-proezd stations
+[2025-03-14 01:23:44,481] INFO: Data for gurevskij-proezd stations saved to data/msk/raw/stations/gurevskij-proezd/gurevskij-proezd_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:46,200] INFO: Extracted data for guryanova stations
+[2025-03-14 01:23:46,201] INFO: Data for guryanova stations saved to data/msk/raw/stations/guryanova/guryanova_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:48,653] INFO: Extracted data for dolgoprudnaya stations
+[2025-03-14 01:23:48,654] INFO: Data for dolgoprudnaya stations saved to data/msk/raw/stations/dolgoprudnaya/dolgoprudnaya_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:50,278] INFO: Extracted data for zelenograd-11 stations
+[2025-03-14 01:23:50,279] INFO: Data for zelenograd-11 stations saved to data/msk/raw/stations/zelenograd-11/zelenograd-11_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:52,198] INFO: Extracted data for zelenograd-16 stations
+[2025-03-14 01:23:52,199] INFO: Data for zelenograd-16 stations saved to data/msk/raw/stations/zelenograd-16/zelenograd-16_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:53,959] INFO: Extracted data for zelenograd-6 stations
+[2025-03-14 01:23:53,960] INFO: Data for zelenograd-6 stations saved to data/msk/raw/stations/zelenograd-6/zelenograd-6_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:55,822] INFO: Extracted data for kazakova stations
+[2025-03-14 01:23:55,824] INFO: Data for kazakova stations saved to data/msk/raw/stations/kazakova/kazakova_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:57,855] INFO: Extracted data for kapotnya stations
+[2025-03-14 01:23:57,856] INFO: Data for kapotnya stations saved to data/msk/raw/stations/kapotnya/kapotnya_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:23:59,981] INFO: Extracted data for kozhuxovo stations
+[2025-03-14 01:23:59,983] INFO: Data for kozhuxovo stations saved to data/msk/raw/stations/kozhuxovo/kozhuxovo_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:02,138] INFO: Extracted data for kozhuxovskij-proezd stations
+[2025-03-14 01:24:02,140] INFO: Data for kozhuxovskij-proezd stations saved to data/msk/raw/stations/kozhuxovskij-proezd/kozhuxovskij-proezd_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:04,106] INFO: Extracted data for koptevskij stations
+[2025-03-14 01:24:04,107] INFO: Data for koptevskij stations saved to data/msk/raw/stations/koptevskij/koptevskij_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:05,667] INFO: Extracted data for kuznecovo stations
+[2025-03-14 01:24:05,668] INFO: Data for kuznecovo stations saved to data/msk/raw/stations/kuznecovo/kuznecovo_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:07,909] INFO: Extracted data for losinyj-ostrov stations
+[2025-03-14 01:24:07,911] INFO: Data for losinyj-ostrov stations saved to data/msk/raw/stations/losinyj-ostrov/losinyj-ostrov_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:09,675] INFO: Extracted data for lyublino stations
+[2025-03-14 01:24:09,676] INFO: Data for lyublino stations saved to data/msk/raw/stations/lyublino/lyublino_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:11,229] INFO: Extracted data for ochakovskaya stations
+[2025-03-14 01:24:11,229] INFO: Data for ochakovskaya stations saved to data/msk/raw/stations/ochakovskaya/ochakovskaya_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:13,142] INFO: Extracted data for m2-zhulebino stations
+[2025-03-14 01:24:13,144] INFO: Data for m2-zhulebino stations saved to data/msk/raw/stations/m2-zhulebino/m2-zhulebino_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:14,962] INFO: Extracted data for madi stations
+[2025-03-14 01:24:14,963] INFO: Data for madi stations saved to data/msk/raw/stations/madi/madi_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:16,591] INFO: Extracted data for marino stations
+[2025-03-14 01:24:16,592] INFO: Data for marino stations saved to data/msk/raw/stations/marino/marino_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:18,396] INFO: Extracted data for mgu stations
+[2025-03-14 01:24:18,397] INFO: Data for mgu stations saved to data/msk/raw/stations/mgu/mgu_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:20,058] INFO: Extracted data for melitopolskaya stations
+[2025-03-14 01:24:20,060] INFO: Data for melitopolskaya stations saved to data/msk/raw/stations/melitopolskaya/melitopolskaya_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:22,962] INFO: Extracted data for narodnogo-opolcheniya stations
+[2025-03-14 01:24:22,963] INFO: Data for narodnogo-opolcheniya stations saved to data/msk/raw/stations/narodnogo-opolcheniya/narodnogo-opolcheniya_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:24,996] INFO: Extracted data for nizhnyaya-maslovka stations
+[2025-03-14 01:24:24,999] INFO: Data for nizhnyaya-maslovka stations saved to data/msk/raw/stations/nizhnyaya-maslovka/nizhnyaya-maslovka_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:26,818] INFO: Extracted data for novokosino stations
+[2025-03-14 01:24:26,819] INFO: Data for novokosino stations saved to data/msk/raw/stations/novokosino/novokosino_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:28,846] INFO: Extracted data for ostankino-0 stations
+[2025-03-14 01:24:28,848] INFO: Data for ostankino-0 stations saved to data/msk/raw/stations/ostankino-0/ostankino-0_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:30,188] ERROR: Cannot extract data for ochakovskoe-2 stations
+[2025-03-14 01:24:32,118] INFO: Extracted data for ploshhad-gagarina stations
+[2025-03-14 01:24:32,120] INFO: Data for ploshhad-gagarina stations saved to data/msk/raw/stations/ploshhad-gagarina/ploshhad-gagarina_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:33,803] INFO: Extracted data for polyarnaya stations
+[2025-03-14 01:24:33,804] INFO: Data for polyarnaya stations saved to data/msk/raw/stations/polyarnaya/polyarnaya_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:35,468] INFO: Extracted data for proletarskij-prospekt stations
+[2025-03-14 01:24:35,469] INFO: Data for proletarskij-prospekt stations saved to data/msk/raw/stations/proletarskij-prospekt/proletarskij-prospekt_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:37,851] INFO: Extracted data for rogovo stations
+[2025-03-14 01:24:37,853] INFO: Data for rogovo stations saved to data/msk/raw/stations/rogovo/rogovo_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:39,544] INFO: Extracted data for salarevo stations
+[2025-03-14 01:24:39,545] INFO: Data for salarevo stations saved to data/msk/raw/stations/salarevo/salarevo_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:40,988] INFO: Extracted data for svetlyj-proezd stations
+[2025-03-14 01:24:40,989] INFO: Data for svetlyj-proezd stations saved to data/msk/raw/stations/svetlyj-proezd/svetlyj-proezd_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:42,679] INFO: Extracted data for semenkovo stations
+[2025-03-14 01:24:42,680] INFO: Data for semenkovo stations saved to data/msk/raw/stations/semenkovo/semenkovo_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:44,305] INFO: Extracted data for spiridonovka stations
+[2025-03-14 01:24:44,307] INFO: Data for spiridonovka stations saved to data/msk/raw/stations/spiridonovka/spiridonovka_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:45,870] INFO: Extracted data for suxarevskaya-ploshhad stations
+[2025-03-14 01:24:45,872] INFO: Data for suxarevskaya-ploshhad stations saved to data/msk/raw/stations/suxarevskaya-ploshhad/suxarevskaya-ploshhad_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:47,502] INFO: Extracted data for texnopolis stations
+[2025-03-14 01:24:47,503] INFO: Data for texnopolis stations saved to data/msk/raw/stations/texnopolis/texnopolis_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:49,026] INFO: Extracted data for tolbuxina stations
+[2025-03-14 01:24:49,027] INFO: Data for tolbuxina stations saved to data/msk/raw/stations/tolbuxina/tolbuxina_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:50,358] ERROR: Cannot extract data for troitsk stations
+[2025-03-14 01:24:53,137] INFO: Extracted data for turistskaya stations
+[2025-03-14 01:24:53,139] INFO: Data for turistskaya stations saved to data/msk/raw/stations/turistskaya/turistskaya_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:55,024] INFO: Extracted data for xamovniki stations
+[2025-03-14 01:24:55,026] INFO: Data for xamovniki stations saved to data/msk/raw/stations/xamovniki/xamovniki_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:56,472] INFO: Extracted data for chayanova stations
+[2025-03-14 01:24:56,472] INFO: Data for chayanova stations saved to data/msk/raw/stations/chayanova/chayanova_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:24:58,052] ERROR: Cannot extract data for shabolovka stations
+[2025-03-14 01:24:59,473] INFO: Extracted data for shherbinka stations
+[2025-03-14 01:24:59,474] INFO: Data for shherbinka stations saved to data/msk/raw/stations/shherbinka/shherbinka_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:25:00,333] INFO: Extracted data for yuzhnoe-chertanovo stations
+[2025-03-14 01:25:00,333] ERROR: Incorrect data for yuzhnoe-chertanovo stations Error info: Cannot open url https://mosecom.mos.ru/yuzhnoe-chertanovo: HTTP Error 404: Not Found
+[2025-03-14 01:25:02,063] INFO: Extracted data for mkad105 special stations
+[2025-03-14 01:25:02,064] INFO: Data for mkad105 special stations saved to data/msk/raw/special_stations/mkad105/mkad105_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:25:03,537] INFO: Extracted data for mkad-52-km-zapad special stations
+[2025-03-14 01:25:03,538] INFO: Data for mkad-52-km-zapad special stations saved to data/msk/raw/special_stations/mkad-52-km-zapad/mkad-52-km-zapad_2025-03-14T04:23:25+03:00.json
+[2025-03-14 01:25:04,307] INFO: Extracted data for spartakovskaya-ploshhad special stations
+[2025-03-14 01:25:04,307] ERROR: Incorrect data for spartakovskaya-ploshhad special stations Error info: Cannot open url https://mosecom.mos.ru/spartakovskaya-ploshhad: HTTP Error 404: Not Found
+[2025-03-14 01:25:05,099] INFO: Extracted data for troizk-2 special stations
+[2025-03-14 01:25:05,099] ERROR: Incorrect data for troizk-2 special stations Error info: Cannot open url https://mosecom.mos.ru/troizk-2: HTTP Error 404: Not Found
+[2025-03-14 01:25:06,375] ERROR: Cannot extract data for vostok profilers
+[2025-03-14 01:25:07,573] ERROR: Cannot extract data for ostankino profilers
+[2025-03-14 01:25:07,573] INFO: Extracted data: {'stations': 47, 'special_stations': 4}
