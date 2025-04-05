@@ -1,0 +1,5 @@
+[2025-04-05 23:39:22,738] INFO: Getting station ids
+[2025-04-05 23:41:40,816] CRITICAL: Cannot get data about stations
+[2025-04-05 23:41:40,817] CRITICAL: [Errno 110] Connection timed out
+[2025-04-05 23:41:40,817] INFO: Extracted data for 2025-04-06T02:39:22+03:00
+[2025-04-05 23:41:40,817] INFO: 0 stations were processed successfuly 0 with errors
