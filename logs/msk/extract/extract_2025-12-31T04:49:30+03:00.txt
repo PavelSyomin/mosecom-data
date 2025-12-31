@@ -1,0 +1,113 @@
+[2025-12-31 01:49:32,595] ERROR: Cannot extract points
+[2025-12-31 01:49:32,595] INFO: Loaded previous version of points from data/msk/raw/points.json
+[2025-12-31 01:50:03,887] INFO: Extracted data for akademika-anoxina stations
+[2025-12-31 01:50:03,887] ERROR: Incorrect data for akademika-anoxina stations Error info: Cannot open url https://mosecom.mos.ru/akademika-anoxina: <urlopen error timed out>
+[2025-12-31 01:50:06,223] INFO: Extracted data for bazovskaya stations
+[2025-12-31 01:50:06,224] INFO: Data for bazovskaya stations saved to data/msk/raw/stations/bazovskaya/bazovskaya_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:50:37,930] INFO: Extracted data for birulevo stations
+[2025-12-31 01:50:37,930] ERROR: Incorrect data for birulevo stations Error info: Cannot open url https://mosecom.mos.ru/birulevo: <urlopen error timed out>
+[2025-12-31 01:50:38,982] INFO: Extracted data for brateevo stations
+[2025-12-31 01:50:38,982] ERROR: Incorrect data for brateevo stations Error info: Cannot open url https://mosecom.mos.ru/brateevo: HTTP Error 404: Not Found
+[2025-12-31 01:51:09,647] INFO: Extracted data for butlerova stations
+[2025-12-31 01:51:09,647] ERROR: Incorrect data for butlerova stations Error info: Cannot open url https://mosecom.mos.ru/butlerova: <urlopen error timed out>
+[2025-12-31 01:51:11,927] INFO: Extracted data for veshnyaki stations
+[2025-12-31 01:51:11,929] INFO: Data for veshnyaki stations saved to data/msk/raw/stations/veshnyaki/veshnyaki_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:51:43,439] INFO: Extracted data for glebovskaya stations
+[2025-12-31 01:51:43,439] ERROR: Incorrect data for glebovskaya stations Error info: Cannot open url https://mosecom.mos.ru/glebovskaya: <urlopen error timed out>
+[2025-12-31 01:51:45,590] INFO: Extracted data for gurevskij-proezd stations
+[2025-12-31 01:51:45,591] INFO: Data for gurevskij-proezd stations saved to data/msk/raw/stations/gurevskij-proezd/gurevskij-proezd_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:52:16,669] INFO: Extracted data for guryanova stations
+[2025-12-31 01:52:16,669] ERROR: Incorrect data for guryanova stations Error info: Cannot open url https://mosecom.mos.ru/guryanova: <urlopen error timed out>
+[2025-12-31 01:52:18,719] INFO: Extracted data for dolgoprudnaya stations
+[2025-12-31 01:52:18,720] INFO: Data for dolgoprudnaya stations saved to data/msk/raw/stations/dolgoprudnaya/dolgoprudnaya_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:52:49,385] INFO: Extracted data for zelenograd-11 stations
+[2025-12-31 01:52:49,385] ERROR: Incorrect data for zelenograd-11 stations Error info: Cannot open url https://mosecom.mos.ru/zelenograd-11: <urlopen error timed out>
+[2025-12-31 01:52:51,414] INFO: Extracted data for zelenograd-16 stations
+[2025-12-31 01:52:51,415] INFO: Data for zelenograd-16 stations saved to data/msk/raw/stations/zelenograd-16/zelenograd-16_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:53:22,172] INFO: Extracted data for zelenograd-6 stations
+[2025-12-31 01:53:22,172] ERROR: Incorrect data for zelenograd-6 stations Error info: Cannot open url https://mosecom.mos.ru/zelenograd-6: <urlopen error timed out>
+[2025-12-31 01:53:24,319] INFO: Extracted data for kazakova stations
+[2025-12-31 01:53:24,320] INFO: Data for kazakova stations saved to data/msk/raw/stations/kazakova/kazakova_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:53:55,259] INFO: Extracted data for kapotnya stations
+[2025-12-31 01:53:55,259] ERROR: Incorrect data for kapotnya stations Error info: Cannot open url https://mosecom.mos.ru/kapotnya: <urlopen error timed out>
+[2025-12-31 01:53:57,364] INFO: Extracted data for kozhuxovo stations
+[2025-12-31 01:53:57,365] INFO: Data for kozhuxovo stations saved to data/msk/raw/stations/kozhuxovo/kozhuxovo_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:54:28,204] INFO: Extracted data for kozhuxovskij-proezd stations
+[2025-12-31 01:54:28,205] ERROR: Incorrect data for kozhuxovskij-proezd stations Error info: Cannot open url https://mosecom.mos.ru/kozhuxovskij-proezd: <urlopen error timed out>
+[2025-12-31 01:54:30,170] INFO: Extracted data for koptevskij stations
+[2025-12-31 01:54:30,171] INFO: Data for koptevskij stations saved to data/msk/raw/stations/koptevskij/koptevskij_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:54:31,932] INFO: Extracted data for kuznecovo stations
+[2025-12-31 01:54:31,933] INFO: Data for kuznecovo stations saved to data/msk/raw/stations/kuznecovo/kuznecovo_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:55:02,588] INFO: Extracted data for losinyj-ostrov stations
+[2025-12-31 01:55:02,588] ERROR: Incorrect data for losinyj-ostrov stations Error info: Cannot open url https://mosecom.mos.ru/losinyj-ostrov: <urlopen error timed out>
+[2025-12-31 01:55:04,783] INFO: Extracted data for lyublino stations
+[2025-12-31 01:55:04,784] INFO: Data for lyublino stations saved to data/msk/raw/stations/lyublino/lyublino_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:55:35,426] INFO: Extracted data for ochakovskaya stations
+[2025-12-31 01:55:35,426] ERROR: Incorrect data for ochakovskaya stations Error info: Cannot open url https://mosecom.mos.ru/ochakovskaya: <urlopen error timed out>
+[2025-12-31 01:55:37,434] INFO: Extracted data for m2-zhulebino stations
+[2025-12-31 01:55:37,435] INFO: Data for m2-zhulebino stations saved to data/msk/raw/stations/m2-zhulebino/m2-zhulebino_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:56:08,088] INFO: Extracted data for madi stations
+[2025-12-31 01:56:08,088] ERROR: Incorrect data for madi stations Error info: Cannot open url https://mosecom.mos.ru/madi: <urlopen error timed out>
+[2025-12-31 01:56:10,287] INFO: Extracted data for marino stations
+[2025-12-31 01:56:10,289] INFO: Data for marino stations saved to data/msk/raw/stations/marino/marino_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:56:41,122] INFO: Extracted data for mgu stations
+[2025-12-31 01:56:41,122] ERROR: Incorrect data for mgu stations Error info: Cannot open url https://mosecom.mos.ru/mgu: <urlopen error timed out>
+[2025-12-31 01:56:43,100] INFO: Extracted data for melitopolskaya stations
+[2025-12-31 01:56:43,102] INFO: Data for melitopolskaya stations saved to data/msk/raw/stations/melitopolskaya/melitopolskaya_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:57:13,759] INFO: Extracted data for narodnogo-opolcheniya stations
+[2025-12-31 01:57:13,759] ERROR: Incorrect data for narodnogo-opolcheniya stations Error info: Cannot open url https://mosecom.mos.ru/narodnogo-opolcheniya: <urlopen error timed out>
+[2025-12-31 01:57:16,180] INFO: Extracted data for nizhnyaya-maslovka stations
+[2025-12-31 01:57:16,182] INFO: Data for nizhnyaya-maslovka stations saved to data/msk/raw/stations/nizhnyaya-maslovka/nizhnyaya-maslovka_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:57:46,828] INFO: Extracted data for novokosino stations
+[2025-12-31 01:57:46,828] ERROR: Incorrect data for novokosino stations Error info: Cannot open url https://mosecom.mos.ru/novokosino: <urlopen error timed out>
+[2025-12-31 01:57:48,896] INFO: Extracted data for ostankino-0 stations
+[2025-12-31 01:57:48,898] INFO: Data for ostankino-0 stations saved to data/msk/raw/stations/ostankino-0/ostankino-0_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:58:19,561] INFO: Extracted data for ochakovskoe-2 stations
+[2025-12-31 01:58:19,561] ERROR: Incorrect data for ochakovskoe-2 stations Error info: Cannot open url https://mosecom.mos.ru/ochakovskoe-2: <urlopen error timed out>
+[2025-12-31 01:58:21,895] INFO: Extracted data for ploshhad-gagarina stations
+[2025-12-31 01:58:21,897] INFO: Data for ploshhad-gagarina stations saved to data/msk/raw/stations/ploshhad-gagarina/ploshhad-gagarina_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:58:52,757] INFO: Extracted data for polyarnaya stations
+[2025-12-31 01:58:52,757] ERROR: Incorrect data for polyarnaya stations Error info: Cannot open url https://mosecom.mos.ru/polyarnaya: <urlopen error timed out>
+[2025-12-31 01:58:55,235] INFO: Extracted data for proletarskij-prospekt stations
+[2025-12-31 01:58:55,236] INFO: Data for proletarskij-prospekt stations saved to data/msk/raw/stations/proletarskij-prospekt/proletarskij-prospekt_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:59:25,899] INFO: Extracted data for rogovo stations
+[2025-12-31 01:59:25,899] ERROR: Incorrect data for rogovo stations Error info: Cannot open url https://mosecom.mos.ru/rogovo: <urlopen error timed out>
+[2025-12-31 01:59:27,901] INFO: Extracted data for salarevo stations
+[2025-12-31 01:59:27,902] INFO: Data for salarevo stations saved to data/msk/raw/stations/salarevo/salarevo_2025-12-31T04:49:30+03:00.json
+[2025-12-31 01:59:58,536] INFO: Extracted data for svetlyj-proezd stations
+[2025-12-31 01:59:58,537] ERROR: Incorrect data for svetlyj-proezd stations Error info: Cannot open url https://mosecom.mos.ru/svetlyj-proezd: <urlopen error timed out>
+[2025-12-31 02:00:00,200] INFO: Extracted data for semenkovo stations
+[2025-12-31 02:00:00,200] INFO: Data for semenkovo stations saved to data/msk/raw/stations/semenkovo/semenkovo_2025-12-31T04:49:30+03:00.json
+[2025-12-31 02:00:31,063] INFO: Extracted data for spiridonovka stations
+[2025-12-31 02:00:31,063] ERROR: Incorrect data for spiridonovka stations Error info: Cannot open url https://mosecom.mos.ru/spiridonovka: <urlopen error timed out>
+[2025-12-31 02:00:32,967] INFO: Extracted data for suxarevskaya-ploshhad stations
+[2025-12-31 02:00:32,969] INFO: Data for suxarevskaya-ploshhad stations saved to data/msk/raw/stations/suxarevskaya-ploshhad/suxarevskaya-ploshhad_2025-12-31T04:49:30+03:00.json
+[2025-12-31 02:01:03,616] INFO: Extracted data for texnopolis stations
+[2025-12-31 02:01:03,616] ERROR: Incorrect data for texnopolis stations Error info: Cannot open url https://mosecom.mos.ru/texnopolis: <urlopen error timed out>
+[2025-12-31 02:01:05,586] INFO: Extracted data for tolbuxina stations
+[2025-12-31 02:01:05,587] INFO: Data for tolbuxina stations saved to data/msk/raw/stations/tolbuxina/tolbuxina_2025-12-31T04:49:30+03:00.json
+[2025-12-31 02:01:36,664] INFO: Extracted data for troitsk stations
+[2025-12-31 02:01:36,664] ERROR: Incorrect data for troitsk stations Error info: Cannot open url https://mosecom.mos.ru/troitsk: <urlopen error timed out>
+[2025-12-31 02:01:38,799] INFO: Extracted data for turistskaya stations
+[2025-12-31 02:01:38,800] INFO: Data for turistskaya stations saved to data/msk/raw/stations/turistskaya/turistskaya_2025-12-31T04:49:30+03:00.json
+[2025-12-31 02:02:09,451] INFO: Extracted data for xamovniki stations
+[2025-12-31 02:02:09,451] ERROR: Incorrect data for xamovniki stations Error info: Cannot open url https://mosecom.mos.ru/xamovniki: <urlopen error timed out>
+[2025-12-31 02:02:11,149] INFO: Extracted data for chayanova stations
+[2025-12-31 02:02:11,150] INFO: Data for chayanova stations saved to data/msk/raw/stations/chayanova/chayanova_2025-12-31T04:49:30+03:00.json
+[2025-12-31 02:02:41,817] INFO: Extracted data for shabolovka stations
+[2025-12-31 02:02:41,817] ERROR: Incorrect data for shabolovka stations Error info: Cannot open url https://mosecom.mos.ru/shabolovka: <urlopen error timed out>
+[2025-12-31 02:02:43,540] INFO: Extracted data for shherbinka stations
+[2025-12-31 02:02:43,541] INFO: Data for shherbinka stations saved to data/msk/raw/stations/shherbinka/shherbinka_2025-12-31T04:49:30+03:00.json
+[2025-12-31 02:03:14,395] INFO: Extracted data for yuzhnoe-chertanovo stations
+[2025-12-31 02:03:14,395] ERROR: Incorrect data for yuzhnoe-chertanovo stations Error info: Cannot open url https://mosecom.mos.ru/yuzhnoe-chertanovo: <urlopen error timed out>
+[2025-12-31 02:03:16,466] INFO: Extracted data for mkad105 special stations
+[2025-12-31 02:03:16,468] INFO: Data for mkad105 special stations saved to data/msk/raw/special_stations/mkad105/mkad105_2025-12-31T04:49:30+03:00.json
+[2025-12-31 02:03:47,138] INFO: Extracted data for mkad-52-km-zapad special stations
+[2025-12-31 02:03:47,138] ERROR: Incorrect data for mkad-52-km-zapad special stations Error info: Cannot open url https://mosecom.mos.ru/mkad-52-km-zapad: <urlopen error timed out>
+[2025-12-31 02:03:48,370] INFO: Extracted data for spartakovskaya-ploshhad special stations
+[2025-12-31 02:03:48,370] ERROR: Incorrect data for spartakovskaya-ploshhad special stations Error info: Cannot open url https://mosecom.mos.ru/spartakovskaya-ploshhad: HTTP Error 404: Not Found
+[2025-12-31 02:04:19,218] INFO: Extracted data for troizk-2 special stations
+[2025-12-31 02:04:19,218] ERROR: Incorrect data for troizk-2 special stations Error info: Cannot open url https://mosecom.mos.ru/troizk-2: <urlopen error timed out>
+[2025-12-31 02:04:20,703] ERROR: Cannot extract data for vostok profilers
+[2025-12-31 02:06:21,527] ERROR: Cannot extract data for ostankino profilers
+[2025-12-31 02:06:21,527] INFO: Extracted data: {'stations': 50, 'special_stations': 4}
