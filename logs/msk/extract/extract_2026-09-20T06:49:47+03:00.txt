@@ -1,0 +1,114 @@
+[2026-09-20 03:49:49,802] ERROR: Cannot extract points
+[2026-09-20 03:49:49,802] INFO: Loaded previous version of points from data/msk/raw/points.json
+[2026-09-20 03:49:52,885] INFO: Extracted data for akademika-anoxina stations
+[2026-09-20 03:49:52,887] INFO: Data for akademika-anoxina stations saved to data/msk/raw/stations/akademika-anoxina/akademika-anoxina_2026-09-20T06:49:47+03:00.json
+[2026-09-20 03:49:53,706] INFO: Extracted data for bazovskaya stations
+[2026-09-20 03:49:53,706] ERROR: Incorrect data for bazovskaya stations Error info: Cannot open url https://mosecom.mos.ru/bazovskaya: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:49:54,817] INFO: Extracted data for birulevo stations
+[2026-09-20 03:49:54,817] ERROR: Incorrect data for birulevo stations Error info: Cannot open url https://mosecom.mos.ru/birulevo: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:49:55,853] INFO: Extracted data for brateevo stations
+[2026-09-20 03:49:55,853] ERROR: Incorrect data for brateevo stations Error info: Cannot open url https://mosecom.mos.ru/brateevo: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:50:26,551] INFO: Extracted data for butlerova stations
+[2026-09-20 03:50:26,551] ERROR: Incorrect data for butlerova stations Error info: Cannot open url https://mosecom.mos.ru/butlerova: <urlopen error timed out>
+[2026-09-20 03:50:27,049] INFO: Extracted data for veshnyaki stations
+[2026-09-20 03:50:27,049] ERROR: Incorrect data for veshnyaki stations Error info: Cannot open url https://mosecom.mos.ru/veshnyaki: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:50:27,554] INFO: Extracted data for glebovskaya stations
+[2026-09-20 03:50:27,554] ERROR: Incorrect data for glebovskaya stations Error info: Cannot open url https://mosecom.mos.ru/glebovskaya: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:50:28,230] INFO: Extracted data for gurevskij-proezd stations
+[2026-09-20 03:50:28,230] ERROR: Incorrect data for gurevskij-proezd stations Error info: Cannot open url https://mosecom.mos.ru/gurevskij-proezd: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:50:30,344] INFO: Extracted data for guryanova stations
+[2026-09-20 03:50:30,345] INFO: Data for guryanova stations saved to data/msk/raw/stations/guryanova/guryanova_2026-09-20T06:49:47+03:00.json
+[2026-09-20 03:50:31,617] INFO: Extracted data for dolgoprudnaya stations
+[2026-09-20 03:50:31,617] ERROR: Incorrect data for dolgoprudnaya stations Error info: Cannot open url https://mosecom.mos.ru/dolgoprudnaya: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:50:32,098] INFO: Extracted data for zelenograd-11 stations
+[2026-09-20 03:50:32,099] ERROR: Incorrect data for zelenograd-11 stations Error info: Cannot open url https://mosecom.mos.ru/zelenograd-11: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:50:33,152] INFO: Extracted data for zelenograd-16 stations
+[2026-09-20 03:50:33,152] ERROR: Incorrect data for zelenograd-16 stations Error info: Cannot open url https://mosecom.mos.ru/zelenograd-16: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:03,680] INFO: Extracted data for zelenograd-6 stations
+[2026-09-20 03:51:03,680] ERROR: Incorrect data for zelenograd-6 stations Error info: Cannot open url https://mosecom.mos.ru/zelenograd-6: <urlopen error timed out>
+[2026-09-20 03:51:04,429] INFO: Extracted data for kazakova stations
+[2026-09-20 03:51:04,429] ERROR: Incorrect data for kazakova stations Error info: Cannot open url https://mosecom.mos.ru/kazakova: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:05,437] INFO: Extracted data for kapotnya stations
+[2026-09-20 03:51:05,437] ERROR: Incorrect data for kapotnya stations Error info: Cannot open url https://mosecom.mos.ru/kapotnya: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:06,804] INFO: Extracted data for kozhuxovo stations
+[2026-09-20 03:51:06,804] ERROR: Incorrect data for kozhuxovo stations Error info: Cannot open url https://mosecom.mos.ru/kozhuxovo: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:37,356] INFO: Extracted data for kozhuxovskij-proezd stations
+[2026-09-20 03:51:37,357] ERROR: Incorrect data for kozhuxovskij-proezd stations Error info: Cannot open url https://mosecom.mos.ru/kozhuxovskij-proezd: <urlopen error timed out>
+[2026-09-20 03:51:37,901] INFO: Extracted data for koptevskij stations
+[2026-09-20 03:51:37,901] ERROR: Incorrect data for koptevskij stations Error info: Cannot open url https://mosecom.mos.ru/koptevskij: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:38,393] INFO: Extracted data for kuznecovo stations
+[2026-09-20 03:51:38,393] ERROR: Incorrect data for kuznecovo stations Error info: Cannot open url https://mosecom.mos.ru/kuznecovo: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:39,237] INFO: Extracted data for losinyj-ostrov stations
+[2026-09-20 03:51:39,237] ERROR: Incorrect data for losinyj-ostrov stations Error info: Cannot open url https://mosecom.mos.ru/losinyj-ostrov: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:40,092] INFO: Extracted data for lyublino stations
+[2026-09-20 03:51:40,092] ERROR: Incorrect data for lyublino stations Error info: Cannot open url https://mosecom.mos.ru/lyublino: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:42,006] INFO: Extracted data for ochakovskaya stations
+[2026-09-20 03:51:42,007] INFO: Data for ochakovskaya stations saved to data/msk/raw/stations/ochakovskaya/ochakovskaya_2026-09-20T06:49:47+03:00.json
+[2026-09-20 03:51:43,956] INFO: Extracted data for m2-zhulebino stations
+[2026-09-20 03:51:43,958] INFO: Data for m2-zhulebino stations saved to data/msk/raw/stations/m2-zhulebino/m2-zhulebino_2026-09-20T06:49:47+03:00.json
+[2026-09-20 03:51:44,473] INFO: Extracted data for madi stations
+[2026-09-20 03:51:44,473] ERROR: Incorrect data for madi stations Error info: Cannot open url https://mosecom.mos.ru/madi: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:45,013] INFO: Extracted data for marino stations
+[2026-09-20 03:51:45,014] ERROR: Incorrect data for marino stations Error info: Cannot open url https://mosecom.mos.ru/marino: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:47,036] INFO: Extracted data for mgu stations
+[2026-09-20 03:51:47,038] INFO: Data for mgu stations saved to data/msk/raw/stations/mgu/mgu_2026-09-20T06:49:47+03:00.json
+[2026-09-20 03:51:47,528] INFO: Extracted data for melitopolskaya stations
+[2026-09-20 03:51:47,528] ERROR: Incorrect data for melitopolskaya stations Error info: Cannot open url https://mosecom.mos.ru/melitopolskaya: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:48,098] INFO: Extracted data for narodnogo-opolcheniya stations
+[2026-09-20 03:51:48,098] ERROR: Incorrect data for narodnogo-opolcheniya stations Error info: Cannot open url https://mosecom.mos.ru/narodnogo-opolcheniya: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:48,596] INFO: Extracted data for nizhnyaya-maslovka stations
+[2026-09-20 03:51:48,596] ERROR: Incorrect data for nizhnyaya-maslovka stations Error info: Cannot open url https://mosecom.mos.ru/nizhnyaya-maslovka: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:49,484] INFO: Extracted data for novokosino stations
+[2026-09-20 03:51:49,484] ERROR: Incorrect data for novokosino stations Error info: Cannot open url https://mosecom.mos.ru/novokosino: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:51:50,013] INFO: Extracted data for ostankino-0 stations
+[2026-09-20 03:51:50,013] ERROR: Incorrect data for ostankino-0 stations Error info: Cannot open url https://mosecom.mos.ru/ostankino-0: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:52:20,948] INFO: Extracted data for ochakovskoe-2 stations
+[2026-09-20 03:52:20,948] ERROR: Incorrect data for ochakovskoe-2 stations Error info: Cannot open url https://mosecom.mos.ru/ochakovskoe-2: <urlopen error timed out>
+[2026-09-20 03:52:21,471] INFO: Extracted data for ploshhad-gagarina stations
+[2026-09-20 03:52:21,471] ERROR: Incorrect data for ploshhad-gagarina stations Error info: Cannot open url https://mosecom.mos.ru/ploshhad-gagarina: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:52:22,940] ERROR: Cannot extract data for polyarnaya stations
+[2026-09-20 03:52:23,841] INFO: Extracted data for proletarskij-prospekt stations
+[2026-09-20 03:52:23,841] ERROR: Incorrect data for proletarskij-prospekt stations Error info: Cannot open url https://mosecom.mos.ru/proletarskij-prospekt: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:52:54,404] INFO: Extracted data for rogovo stations
+[2026-09-20 03:52:54,404] ERROR: Incorrect data for rogovo stations Error info: Cannot open url https://mosecom.mos.ru/rogovo: <urlopen error timed out>
+[2026-09-20 03:52:55,339] INFO: Extracted data for salarevo stations
+[2026-09-20 03:52:55,339] ERROR: Incorrect data for salarevo stations Error info: Cannot open url https://mosecom.mos.ru/salarevo: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:52:56,198] INFO: Extracted data for svetlyj-proezd stations
+[2026-09-20 03:52:56,198] ERROR: Incorrect data for svetlyj-proezd stations Error info: Cannot open url https://mosecom.mos.ru/svetlyj-proezd: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:53:26,718] INFO: Extracted data for semenkovo stations
+[2026-09-20 03:53:26,718] ERROR: Incorrect data for semenkovo stations Error info: Cannot open url https://mosecom.mos.ru/semenkovo: <urlopen error timed out>
+[2026-09-20 03:53:27,603] INFO: Extracted data for spiridonovka stations
+[2026-09-20 03:53:27,603] ERROR: Incorrect data for spiridonovka stations Error info: Cannot open url https://mosecom.mos.ru/spiridonovka: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:53:28,257] INFO: Extracted data for suxarevskaya-ploshhad stations
+[2026-09-20 03:53:28,257] ERROR: Incorrect data for suxarevskaya-ploshhad stations Error info: Cannot open url https://mosecom.mos.ru/suxarevskaya-ploshhad: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:53:29,181] INFO: Extracted data for texnopolis stations
+[2026-09-20 03:53:29,181] ERROR: Incorrect data for texnopolis stations Error info: Cannot open url https://mosecom.mos.ru/texnopolis: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:53:29,690] INFO: Extracted data for tolbuxina stations
+[2026-09-20 03:53:29,690] ERROR: Incorrect data for tolbuxina stations Error info: Cannot open url https://mosecom.mos.ru/tolbuxina: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:54:00,419] INFO: Extracted data for troitsk stations
+[2026-09-20 03:54:00,419] ERROR: Incorrect data for troitsk stations Error info: Cannot open url https://mosecom.mos.ru/troitsk: <urlopen error timed out>
+[2026-09-20 03:54:31,129] INFO: Extracted data for turistskaya stations
+[2026-09-20 03:54:31,129] ERROR: Incorrect data for turistskaya stations Error info: Cannot open url https://mosecom.mos.ru/turistskaya: <urlopen error timed out>
+[2026-09-20 03:54:31,804] INFO: Extracted data for xamovniki stations
+[2026-09-20 03:54:31,804] ERROR: Incorrect data for xamovniki stations Error info: Cannot open url https://mosecom.mos.ru/xamovniki: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:54:32,504] INFO: Extracted data for chayanova stations
+[2026-09-20 03:54:32,504] ERROR: Incorrect data for chayanova stations Error info: Cannot open url https://mosecom.mos.ru/chayanova: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:54:34,554] INFO: Extracted data for shabolovka stations
+[2026-09-20 03:54:34,555] INFO: Data for shabolovka stations saved to data/msk/raw/stations/shabolovka/shabolovka_2026-09-20T06:49:47+03:00.json
+[2026-09-20 03:54:35,245] INFO: Extracted data for shherbinka stations
+[2026-09-20 03:54:35,245] ERROR: Incorrect data for shherbinka stations Error info: Cannot open url https://mosecom.mos.ru/shherbinka: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:54:35,927] INFO: Extracted data for yuzhnoe-chertanovo stations
+[2026-09-20 03:54:35,927] ERROR: Incorrect data for yuzhnoe-chertanovo stations Error info: Cannot open url https://mosecom.mos.ru/yuzhnoe-chertanovo: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:54:37,616] INFO: Extracted data for mkad105 special stations
+[2026-09-20 03:54:37,617] INFO: Data for mkad105 special stations saved to data/msk/raw/special_stations/mkad105/mkad105_2026-09-20T06:49:47+03:00.json
+[2026-09-20 03:54:38,317] INFO: Extracted data for mkad-52-km-zapad special stations
+[2026-09-20 03:54:38,317] ERROR: Incorrect data for mkad-52-km-zapad special stations Error info: Cannot open url https://mosecom.mos.ru/mkad-52-km-zapad: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:54:39,230] INFO: Extracted data for spartakovskaya-ploshhad special stations
+[2026-09-20 03:54:39,230] ERROR: Incorrect data for spartakovskaya-ploshhad special stations Error info: Cannot open url https://mosecom.mos.ru/spartakovskaya-ploshhad: HTTP Error 404: Not Found
+[2026-09-20 03:54:39,912] INFO: Extracted data for troizk-2 special stations
+[2026-09-20 03:54:39,912] ERROR: Incorrect data for troizk-2 special stations Error info: Cannot open url https://mosecom.mos.ru/troizk-2: <urlopen error [Errno 104] Connection reset by peer>
+[2026-09-20 03:54:40,554] INFO: Extracted data for vostok profilers
+[2026-09-20 03:54:40,554] ERROR: Incorrect data for vostok profilers Error info: Cannot open or parse url https://mosecom.mos.ru/meteo/profilemery/vostok
+[2026-09-20 03:54:41,063] INFO: Extracted data for ostankino profilers
+[2026-09-20 03:54:41,064] ERROR: Incorrect data for ostankino profilers Error info: Cannot open or parse url https://mosecom.mos.ru/meteo/profilemery/ostankino
+[2026-09-20 03:54:41,064] INFO: Extracted data: {'stations': 49, 'special_stations': 4, 'profilers': 2}
