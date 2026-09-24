@@ -1,0 +1,7 @@
+[2026-09-24 08:38:34,149] INFO: Trying to get data
+[2026-09-24 08:38:34,150] INFO: Trying to get http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2026-09-24 08:40:19,511] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2026-09-24 08:40:19,511] CRITICAL: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+[2026-09-24 08:40:22,871] INFO: Data retrieved. Extracting placemarks
+[2026-09-24 08:40:22,871] INFO: Detected 21 placemarks
+[2026-09-24 08:40:22,872] INFO: Data saved to data/tat/raw/2026-09-24T11:38:34+03:00.json
