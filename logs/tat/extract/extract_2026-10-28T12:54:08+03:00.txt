@@ -1,0 +1,7 @@
+[2026-10-28 09:54:08,190] INFO: Trying to get data
+[2026-10-28 09:54:08,190] INFO: Trying to get http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2026-10-28 09:56:27,400] CRITICAL: Cannot get data from http://www.tatarmeteo.ru/ru/monitoring-okruzhayushhej-sredyi/monitoring-zagryazneniya-atmosfernogo-vozduxa-kazani.html
+[2026-10-28 09:56:27,400] CRITICAL: [Errno 110] Connection timed out
+[2026-10-28 09:57:39,053] INFO: Data retrieved. Extracting placemarks
+[2026-10-28 09:57:39,054] INFO: Detected 21 placemarks
+[2026-10-28 09:57:39,054] INFO: Data saved to data/tat/raw/2026-10-28T12:54:08+03:00.json
